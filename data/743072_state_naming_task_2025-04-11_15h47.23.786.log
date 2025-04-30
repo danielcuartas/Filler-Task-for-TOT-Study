@@ -1,0 +1,65 @@
+7.0742 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+7.0766 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+7.5511 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000268616EEE30>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000268616EEDD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000268617A3A60>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.5512 	EXP 	window1: backgroundImage = ''
+7.5512 	EXP 	window1: backgroundFit = 'none'
+7.5636 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5654 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5674 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5718 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5743 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5766 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5783 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5799 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5807 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5811 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5817 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5833 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5850 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5905 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5915 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5932 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.5938 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.5962 	DEBUG 	Upload of Texture Font fontname complete
+7.6089 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6102 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6113 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6117 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.6133 	DEBUG 	Upload of Texture Font fontname complete
+7.6176 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.6176 	EXP 	window1: recordFrameIntervals = False
+7.8288 	EXP 	window1: recordFrameIntervals = True
+7.9682 	WARNING 	t of last frame was 20.34ms (=1/49)
+8.0048 	WARNING 	t of last frame was 36.60ms (=1/27)
+8.0339 	WARNING 	t of last frame was 29.15ms (=1/34)
+8.0555 	WARNING 	t of last frame was 21.54ms (=1/46)
+8.0831 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+8.3788 	EXP 	Screen (0) actual frame rate measured at 59.71Hz
+8.3788 	EXP 	window1: recordFrameIntervals = False
+8.3863 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3870 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3882 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3965 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3977 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3990 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4000 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4004 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.4016 	DEBUG 	Upload of Texture Font fontname complete
+8.4261 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+12.2908 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2909 	INFO 	keyboard.Keyboard is using iohub backend.
+12.2909 	EXP 	state_naming_task: status = STARTED
+12.4212 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.4257 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+12.4427 	DEBUG 	Saving data for state_naming_task ExperimentHandler
+12.4435 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/743072_state_naming_task_2025-04-11_15h47.23.786.psydat
+12.4441 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/743072_state_naming_task_2025-04-11_15h47.23.786.csv'

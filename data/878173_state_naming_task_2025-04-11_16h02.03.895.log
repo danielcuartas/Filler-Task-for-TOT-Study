@@ -1,0 +1,124 @@
+6.1202 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+6.1212 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+6.4725 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D2A64A4A60>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D2A64A4AC0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D2A6578070>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.4726 	EXP 	window1: backgroundImage = ''
+6.4726 	EXP 	window1: backgroundFit = 'none'
+6.4827 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4837 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4848 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4857 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4864 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4870 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4881 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4890 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4900 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4905 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4916 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4924 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4933 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4943 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4955 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4960 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4970 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4986 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4990 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.5003 	DEBUG 	Upload of Texture Font fontname complete
+6.5075 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5087 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5098 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5101 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.5108 	DEBUG 	Upload of Texture Font fontname complete
+6.5130 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.5130 	EXP 	window1: recordFrameIntervals = False
+6.6832 	EXP 	window1: recordFrameIntervals = True
+6.8661 	EXP 	Screen (0) actual frame rate measured at 60.21Hz
+6.8661 	EXP 	window1: recordFrameIntervals = False
+6.8715 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8722 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8744 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8755 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8767 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8773 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8784 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8794 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8816 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8827 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.8831 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.8838 	DEBUG 	Upload of Texture Font fontname complete
+6.8971 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+10.3054 	INFO 	keyboard.Keyboard is using iohub backend.
+10.3055 	INFO 	keyboard.Keyboard is using iohub backend.
+10.3055 	INFO 	keyboard.Keyboard is using iohub backend.
+10.3055 	EXP 	state_naming_task: status = STARTED
+10.3984 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.4031 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+10.4080 	EXP 	Created state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0146 	EXP 	textbox: autoLog = True
+0.0327 	INFO 	Keyboard events cleared
+0.0323 	EXP 	task_instructions: autoDraw = True
+2.8966 	DEBUG 	Read excel file with openpyxl: states/loop_us_state_trials.xlsx
+2.8969 	EXP 	Imported states/loop_us_state_trials.xlsx as conditions, 3 conditions, 2 params
+2.8972 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'image_file': 'states/Alaska-Outline-Map.jpg', 'correct_answer': 'Alaska', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.9397 	DATA 	Keypress: space
+2.9862 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.9875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.9880 	DEBUG 	Uploading Texture Font fontname to graphics card
+2.9889 	DEBUG 	Upload of Texture Font fontname complete
+3.0323 	EXP 	task_instructions: autoDraw = False
+3.0323 	EXP 	state_pics: image = 'states/Alaska-Outline-Map.jpg'
+3.4012 	INFO 	Keyboard events cleared
+3.4007 	EXP 	stimuli_prompt: autoDraw = True
+3.4007 	EXP 	state_pics: autoDraw = True
+3.4007 	EXP 	textbox: autoDraw = True
+8.3060 	DATA 	Keypress: lshift
+8.7048 	DATA 	Keypress: a
+8.7071 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7074 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.7077 	DEBUG 	Upload of Texture Font fontname complete
+9.3557 	DATA 	Keypress: l
+9.3574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3577 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.3580 	DEBUG 	Upload of Texture Font fontname complete
+9.9878 	DATA 	Keypress: a
+9.9898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.9902 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.9905 	DEBUG 	Upload of Texture Font fontname complete
+11.2734 	DATA 	Keypress: s
+11.2755 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2758 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.2761 	DEBUG 	Upload of Texture Font fontname complete
+11.3891 	DATA 	Keypress: k
+11.3914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3917 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.3920 	DEBUG 	Upload of Texture Font fontname complete
+11.4894 	DATA 	Keypress: a
+11.8387 	DATA 	Keypress: return
+12.7895 	DATA 	Keypress: return
+14.2576 	DATA 	Keypress: backspace
+15.3394 	DATA 	Keypress: backspace
+15.5068 	DATA 	Keypress: backspace
+15.6727 	DATA 	Keypress: backspace
+16.0223 	DATA 	Keypress: backspace
+16.5229 	DATA 	Keypress: backspace
+17.3565 	DATA 	Keypress: return
+19.2604 	DATA 	Mouse: Left button down, pos=(725,281)
+19.4771 	DATA 	Mouse:  Left button up, pos=(725,281)
+19.6098 	DATA 	Mouse: Left button down, pos=(725,281)
+19.8416 	DATA 	Mouse:  Left button up, pos=(734,280)
+20.2067 	DATA 	Keypress: return
+20.8914 	DATA 	Keypress: backspace
+21.0434 	DATA 	Keypress: backspace
+21.3448 	DATA 	Keypress: backspace
+33.7083 	DATA 	Keypress: escape
+33.8229 	EXP 	state_naming_task: status = STOPPED
+33.8383 	EXP 	stimuli_prompt: autoDraw = False
+33.8383 	EXP 	state_pics: autoDraw = False
+33.8383 	EXP 	textbox: autoDraw = False
+33.8409 	EXP 	state_naming_task: status = STOPPED
+33.8893 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/878173_state_naming_task_2025-04-11_16h02.03.895.csv'
+33.8905 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/878173_state_naming_task_2025-04-11_16h02.03.895.psydat
+34.6158 	DEBUG 	Saving data for state_naming_task ExperimentHandler

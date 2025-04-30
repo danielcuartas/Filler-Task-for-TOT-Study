@@ -1,0 +1,17 @@
+9.6890 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+9.7037 	WARNING 	User requested fullscreen with size [1536  960], but screen is actually [1920, 1200]. Using actual size
+10.2143 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209DA225540>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209DA226710>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000209E4A43220>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.2144 	EXP 	window1: backgroundImage = ''
+10.2144 	EXP 	window1: backgroundFit = 'none'
+10.3295 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.3296 	EXP 	window1: recordFrameIntervals = False
+10.6260 	EXP 	window1: recordFrameIntervals = True
+10.8102 	EXP 	Screen (0) actual frame rate measured at 60.02Hz
+10.8102 	EXP 	window1: recordFrameIntervals = False
+14.2442 	INFO 	keyboard.Keyboard is using iohub backend.
+14.2443 	INFO 	keyboard.Keyboard is using iohub backend.
+14.2443 	EXP 	state_naming_task: status = STARTED
+14.3489 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+14.3551 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+14.4948 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/839928_state_naming_task_2025-04-11_14h22.52.318.psydat
+14.4957 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/839928_state_naming_task_2025-04-11_14h22.52.318.csv'

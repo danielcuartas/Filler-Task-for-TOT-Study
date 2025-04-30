@@ -1,0 +1,1153 @@
+128.1622 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+128.1635 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+128.6052 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024D8EE75090>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024D8EE750F0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024D8EF43AC0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+128.6053 	EXP 	window1: backgroundImage = ''
+128.6053 	EXP 	window1: backgroundFit = 'none'
+128.6174 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6186 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6198 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6207 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6214 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6222 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6233 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6246 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6254 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6263 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6277 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6285 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6296 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6307 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6321 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6332 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6337 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6341 	DEBUG 	Uploading Texture Font fontname to graphics card
+128.6359 	DEBUG 	Upload of Texture Font fontname complete
+128.6453 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6466 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+128.6481 	DEBUG 	Uploading Texture Font fontname to graphics card
+128.6491 	DEBUG 	Upload of Texture Font fontname complete
+128.6516 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+128.6516 	EXP 	window1: recordFrameIntervals = False
+128.8302 	EXP 	window1: recordFrameIntervals = True
+129.0113 	EXP 	Screen (0) actual frame rate measured at 60.05Hz
+129.0114 	EXP 	window1: recordFrameIntervals = False
+129.0183 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0190 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0200 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0213 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0225 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0239 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0246 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0256 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0265 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0275 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0291 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0302 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+129.0306 	DEBUG 	Uploading Texture Font fontname to graphics card
+129.0317 	DEBUG 	Upload of Texture Font fontname complete
+129.0484 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+132.4664 	INFO 	keyboard.Keyboard is using iohub backend.
+132.4665 	INFO 	keyboard.Keyboard is using iohub backend.
+132.4665 	EXP 	state_naming_task: status = STARTED
+132.5716 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+132.5759 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+132.5807 	EXP 	Created state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+132.5928 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.5946 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.5963 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.5980 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.5992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.6003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.6019 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.6033 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.6045 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+132.6048 	DEBUG 	Uploading Texture Font fontname to graphics card
+132.6056 	DEBUG 	Upload of Texture Font fontname complete
+0.0201 	EXP 	textbox: autoLog = True
+0.0363 	INFO 	Keyboard events cleared
+0.0358 	EXP 	task_instructions: autoDraw = True
+4.5195 	DEBUG 	Read excel file with openpyxl: states/loop_us_state_trials.xlsx
+4.5211 	EXP 	Imported states/loop_us_state_trials.xlsx as conditions, 50 conditions, 2 params
+4.5218 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'image_file': 'states/California-Outline-Map.jpg', 'correct_answer': 'California', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+4.5939 	DATA 	Keypress: space
+4.6284 	EXP 	task_instructions: autoDraw = False
+4.6284 	EXP 	state_pics: image = 'states/California-Outline-Map.jpg'
+5.0194 	EXP 	stimuli_prompt: autoDraw = True
+5.0194 	EXP 	state_pics: autoDraw = True
+5.0194 	EXP 	textbox: autoDraw = True
+6.9084 	DATA 	Keypress: lshift
+7.4093 	DATA 	Keypress: c
+7.4128 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.4133 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.4136 	DEBUG 	Upload of Texture Font fontname complete
+7.9074 	DATA 	Keypress: a
+7.9094 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9097 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.9102 	DEBUG 	Upload of Texture Font fontname complete
+8.1267 	DATA 	Keypress: l
+8.1287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.1290 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.1296 	DEBUG 	Upload of Texture Font fontname complete
+8.2933 	DATA 	Keypress: i
+8.2955 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2958 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.2964 	DEBUG 	Upload of Texture Font fontname complete
+8.4108 	DATA 	Keypress: f
+8.4139 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4142 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.4149 	DEBUG 	Upload of Texture Font fontname complete
+8.5133 	DATA 	Keypress: o
+8.5161 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.5167 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.5174 	DEBUG 	Upload of Texture Font fontname complete
+8.6282 	DATA 	Keypress: r
+8.7449 	DATA 	Keypress: n
+8.7477 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7481 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.7487 	DEBUG 	Upload of Texture Font fontname complete
+8.8446 	DATA 	Keypress: i
+8.9267 	DATA 	Keypress: a
+12.0097 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'image_file': 'states/Missouri-Outline-Map.jpg', 'correct_answer': 'Missouri', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+12.1375 	EXP 	stimuli_prompt: autoDraw = False
+12.1375 	EXP 	state_pics: autoDraw = False
+12.1375 	EXP 	textbox: autoDraw = False
+12.1375 	EXP 	stimuli_prompt: autoDraw = False
+12.1375 	EXP 	state_pics: autoDraw = False
+12.1375 	EXP 	textbox: autoDraw = False
+12.1375 	EXP 	state_pics: image = 'states/Missouri-Outline-Map.jpg'
+12.5203 	EXP 	stimuli_prompt: autoDraw = True
+12.5203 	EXP 	state_pics: autoDraw = True
+12.5203 	EXP 	textbox: autoDraw = True
+16.2112 	DATA 	Keypress: lshift
+17.1939 	DATA 	Keypress: a
+17.1966 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.1971 	DEBUG 	Uploading Texture Font fontname to graphics card
+17.1977 	DEBUG 	Upload of Texture Font fontname complete
+17.3958 	DATA 	Keypress: l
+17.4951 	DATA 	Keypress: a
+17.7132 	DATA 	Keypress: b
+17.7161 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.7166 	DEBUG 	Uploading Texture Font fontname to graphics card
+17.7172 	DEBUG 	Upload of Texture Font fontname complete
+17.8120 	DATA 	Keypress: a
+17.9955 	DATA 	Keypress: m
+17.9982 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.9985 	DEBUG 	Uploading Texture Font fontname to graphics card
+17.9991 	DEBUG 	Upload of Texture Font fontname complete
+18.1134 	DATA 	Keypress: a
+19.5102 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'image_file': 'states/Oklahoma-Outline-Map.jpg', 'correct_answer': 'Oklahoma', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+19.5991 	EXP 	stimuli_prompt: autoDraw = False
+19.5991 	EXP 	state_pics: autoDraw = False
+19.5991 	EXP 	textbox: autoDraw = False
+19.5991 	EXP 	state_pics: image = 'states/Oklahoma-Outline-Map.jpg'
+20.0212 	EXP 	stimuli_prompt: autoDraw = True
+20.0212 	EXP 	state_pics: autoDraw = True
+20.0212 	EXP 	textbox: autoDraw = True
+21.7104 	DATA 	Keypress: lshift
+21.9442 	DATA 	Keypress: u
+21.9475 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.9479 	DEBUG 	Uploading Texture Font fontname to graphics card
+21.9482 	DEBUG 	Upload of Texture Font fontname complete
+22.1099 	DATA 	Keypress: t
+22.1119 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.1123 	DEBUG 	Uploading Texture Font fontname to graphics card
+22.1126 	DEBUG 	Upload of Texture Font fontname complete
+22.3089 	DATA 	Keypress: a
+23.0437 	DATA 	Keypress: h
+27.0083 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'image_file': 'states/Kentucky-Outline-Map.jpg', 'correct_answer': 'Kentucky', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+27.0614 	EXP 	stimuli_prompt: autoDraw = False
+27.0614 	EXP 	state_pics: autoDraw = False
+27.0614 	EXP 	textbox: autoDraw = False
+27.0614 	EXP 	stimuli_prompt: autoDraw = False
+27.0614 	EXP 	state_pics: autoDraw = False
+27.0614 	EXP 	textbox: autoDraw = False
+27.0614 	EXP 	state_pics: image = 'states/Kentucky-Outline-Map.jpg'
+27.5225 	EXP 	stimuli_prompt: autoDraw = True
+27.5225 	EXP 	state_pics: autoDraw = True
+27.5225 	EXP 	textbox: autoDraw = True
+30.1134 	DATA 	Keypress: lshift
+30.4447 	DATA 	Keypress: w
+30.4476 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+30.4480 	DEBUG 	Uploading Texture Font fontname to graphics card
+30.4483 	DEBUG 	Upload of Texture Font fontname complete
+30.7271 	DATA 	Keypress: e
+31.3609 	DATA 	Keypress: s
+31.3630 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+31.3633 	DEBUG 	Uploading Texture Font fontname to graphics card
+31.3636 	DEBUG 	Upload of Texture Font fontname complete
+31.6260 	DATA 	Keypress: t
+31.7606 	DATA 	Keypress: space
+32.0110 	DATA 	Keypress: lshift
+32.1960 	DATA 	Keypress: v
+32.1985 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+32.1988 	DEBUG 	Uploading Texture Font fontname to graphics card
+32.1991 	DEBUG 	Upload of Texture Font fontname complete
+32.3622 	DATA 	Keypress: i
+32.4618 	DATA 	Keypress: r
+32.6260 	DATA 	Keypress: g
+32.6284 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+32.6287 	DEBUG 	Uploading Texture Font fontname to graphics card
+32.6290 	DEBUG 	Upload of Texture Font fontname complete
+32.6946 	DATA 	Keypress: i
+32.8609 	DATA 	Keypress: n
+33.0276 	DATA 	Keypress: i
+33.1281 	DATA 	Keypress: a
+34.5096 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'image_file': 'states/North-Carolina-Outline-Map.jpg', 'correct_answer': 'North Carolina', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+34.5586 	EXP 	stimuli_prompt: autoDraw = False
+34.5586 	EXP 	state_pics: autoDraw = False
+34.5586 	EXP 	textbox: autoDraw = False
+34.5586 	EXP 	stimuli_prompt: autoDraw = False
+34.5586 	EXP 	state_pics: autoDraw = False
+34.5586 	EXP 	textbox: autoDraw = False
+34.5586 	EXP 	state_pics: image = 'states/North-Carolina-Outline-Map.jpg'
+35.0234 	EXP 	stimuli_prompt: autoDraw = True
+35.0234 	EXP 	state_pics: autoDraw = True
+35.0234 	EXP 	textbox: autoDraw = True
+39.8311 	DATA 	Keypress: i
+39.9437 	DATA 	Keypress: d
+39.9460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+39.9463 	DEBUG 	Uploading Texture Font fontname to graphics card
+39.9466 	DEBUG 	Upload of Texture Font fontname complete
+40.0622 	DATA 	Keypress: k
+40.0644 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+40.0646 	DEBUG 	Uploading Texture Font fontname to graphics card
+40.0649 	DEBUG 	Upload of Texture Font fontname complete
+42.0095 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'image_file': 'states/South-Dakota-Outline-Map.jpg', 'correct_answer': 'South Dakota', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+42.0704 	EXP 	stimuli_prompt: autoDraw = False
+42.0704 	EXP 	state_pics: autoDraw = False
+42.0704 	EXP 	textbox: autoDraw = False
+42.0704 	EXP 	stimuli_prompt: autoDraw = False
+42.0704 	EXP 	state_pics: autoDraw = False
+42.0704 	EXP 	textbox: autoDraw = False
+42.0704 	EXP 	state_pics: image = 'states/South-Dakota-Outline-Map.jpg'
+42.5238 	EXP 	stimuli_prompt: autoDraw = True
+42.5238 	EXP 	state_pics: autoDraw = True
+42.5238 	EXP 	textbox: autoDraw = True
+46.6980 	DATA 	Keypress: lshift
+46.8465 	DATA 	Keypress: o
+46.8489 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+46.8492 	DEBUG 	Uploading Texture Font fontname to graphics card
+46.8495 	DEBUG 	Upload of Texture Font fontname complete
+47.0956 	DATA 	Keypress: k
+47.3965 	DATA 	Keypress: l
+47.6458 	DATA 	Keypress: o
+48.3796 	DATA 	Keypress: backspace
+48.5630 	DATA 	Keypress: a
+48.8128 	DATA 	Keypress: h
+49.0300 	DATA 	Keypress: o
+49.1968 	DATA 	Keypress: m
+49.2972 	DATA 	Keypress: a
+49.5102 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'image_file': 'states/Kansas-Outline-Map.jpg', 'correct_answer': 'Kansas', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+49.5708 	EXP 	stimuli_prompt: autoDraw = False
+49.5708 	EXP 	state_pics: autoDraw = False
+49.5708 	EXP 	textbox: autoDraw = False
+49.5708 	EXP 	state_pics: image = 'states/Kansas-Outline-Map.jpg'
+50.0247 	EXP 	stimuli_prompt: autoDraw = True
+50.0247 	EXP 	state_pics: autoDraw = True
+50.0247 	EXP 	textbox: autoDraw = True
+51.3326 	DATA 	Keypress: lshift
+51.7653 	DATA 	Keypress: w
+51.9802 	DATA 	Keypress: y
+52.1979 	DATA 	Keypress: o
+52.4971 	DATA 	Keypress: m
+52.6458 	DATA 	Keypress: i
+52.6986 	DATA 	Keypress: n
+52.7968 	DATA 	Keypress: g
+53.5140 	DATA 	Keypress: backspace
+54.9654 	DATA 	Keypress: i
+55.0470 	DATA 	Keypress: d
+55.2643 	DATA 	Keypress: k
+57.0120 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'image_file': 'states/Maine-Outline-Map.jpg', 'correct_answer': 'Maine', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+57.0849 	EXP 	stimuli_prompt: autoDraw = False
+57.0849 	EXP 	state_pics: autoDraw = False
+57.0849 	EXP 	textbox: autoDraw = False
+57.0849 	EXP 	state_pics: image = 'states/Maine-Outline-Map.jpg'
+57.5097 	EXP 	stimuli_prompt: autoDraw = True
+57.5097 	EXP 	state_pics: autoDraw = True
+57.5097 	EXP 	textbox: autoDraw = True
+59.5173 	DATA 	Keypress: lshift
+59.6492 	DATA 	Keypress: n
+59.6516 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+59.6519 	DEBUG 	Uploading Texture Font fontname to graphics card
+59.6522 	DEBUG 	Upload of Texture Font fontname complete
+59.8295 	DATA 	Keypress: e
+59.9161 	DATA 	Keypress: w
+59.9185 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+59.9188 	DEBUG 	Uploading Texture Font fontname to graphics card
+59.9191 	DEBUG 	Upload of Texture Font fontname complete
+60.0976 	DATA 	Keypress: space
+60.2507 	DATA 	Keypress: lshift
+60.3157 	DATA 	Keypress: y
+60.3192 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+60.3195 	DEBUG 	Uploading Texture Font fontname to graphics card
+60.3198 	DEBUG 	Upload of Texture Font fontname complete
+60.4979 	DATA 	Keypress: o
+60.5813 	DATA 	Keypress: r
+60.6980 	DATA 	Keypress: k
+64.4971 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'image_file': 'states/Tennessee-Outline-Map.jpg', 'correct_answer': 'Tennessee', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+64.5366 	EXP 	stimuli_prompt: autoDraw = False
+64.5366 	EXP 	state_pics: autoDraw = False
+64.5366 	EXP 	textbox: autoDraw = False
+64.5366 	EXP 	stimuli_prompt: autoDraw = False
+64.5366 	EXP 	state_pics: autoDraw = False
+64.5366 	EXP 	textbox: autoDraw = False
+64.5366 	EXP 	state_pics: image = 'states/Tennessee-Outline-Map.jpg'
+65.0100 	EXP 	stimuli_prompt: autoDraw = True
+65.0100 	EXP 	state_pics: autoDraw = True
+65.0100 	EXP 	textbox: autoDraw = True
+68.6991 	DATA 	Keypress: lshift
+68.9336 	DATA 	Keypress: r
+68.9360 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+68.9363 	DEBUG 	Uploading Texture Font fontname to graphics card
+68.9366 	DEBUG 	Upload of Texture Font fontname complete
+69.0991 	DATA 	Keypress: h
+69.1646 	DATA 	Keypress: o
+69.2645 	DATA 	Keypress: d
+69.3988 	DATA 	Keypress: e
+69.5482 	DATA 	Keypress: space
+69.6814 	DATA 	Keypress: lshift
+69.8151 	DATA 	Keypress: i
+69.8170 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+69.8173 	DEBUG 	Uploading Texture Font fontname to graphics card
+69.8176 	DEBUG 	Upload of Texture Font fontname complete
+69.9477 	DATA 	Keypress: s
+70.0985 	DATA 	Keypress: l
+70.2319 	DATA 	Keypress: a
+70.3811 	DATA 	Keypress: d
+70.4481 	DATA 	Keypress: n
+70.9151 	DATA 	Keypress: backspace
+71.0653 	DATA 	Keypress: backspace
+71.2657 	DATA 	Keypress: n
+71.2991 	DATA 	Keypress: d
+71.9971 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'image_file': 'states/New-Hampshire-Outline-Map.jpg', 'correct_answer': 'New Hampshire', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+72.0533 	EXP 	stimuli_prompt: autoDraw = False
+72.0533 	EXP 	state_pics: autoDraw = False
+72.0533 	EXP 	textbox: autoDraw = False
+72.0533 	EXP 	stimuli_prompt: autoDraw = False
+72.0533 	EXP 	state_pics: autoDraw = False
+72.0533 	EXP 	textbox: autoDraw = False
+72.0533 	EXP 	state_pics: image = 'states/New-Hampshire-Outline-Map.jpg'
+72.5108 	EXP 	stimuli_prompt: autoDraw = True
+72.5108 	EXP 	state_pics: autoDraw = True
+72.5108 	EXP 	textbox: autoDraw = True
+76.2662 	DATA 	Keypress: lshift
+76.4175 	DATA 	Keypress: m
+76.4199 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+76.4202 	DEBUG 	Uploading Texture Font fontname to graphics card
+76.4205 	DEBUG 	Upload of Texture Font fontname complete
+76.5827 	DATA 	Keypress: a
+76.7662 	DATA 	Keypress: s
+76.9168 	DATA 	Keypress: s
+77.3829 	DATA 	Keypress: a
+77.5660 	DATA 	Keypress: c
+77.5681 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+77.5685 	DEBUG 	Uploading Texture Font fontname to graphics card
+77.5688 	DEBUG 	Upload of Texture Font fontname complete
+77.7005 	DATA 	Keypress: h
+77.7999 	DATA 	Keypress: u
+77.8020 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+77.8024 	DEBUG 	Uploading Texture Font fontname to graphics card
+77.8028 	DEBUG 	Upload of Texture Font fontname complete
+77.9168 	DATA 	Keypress: s
+78.0835 	DATA 	Keypress: s
+78.3000 	DATA 	Keypress: e
+78.5846 	DATA 	Keypress: t
+78.7667 	DATA 	Keypress: e
+79.1350 	DATA 	Keypress: backspace
+79.2333 	DATA 	Keypress: t
+79.3667 	DATA 	Keypress: e
+79.4978 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'image_file': 'states/Maryland-Outline-Map.jpg', 'correct_answer': 'Maryland', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+79.5701 	EXP 	stimuli_prompt: autoDraw = False
+79.5701 	EXP 	state_pics: autoDraw = False
+79.5701 	EXP 	textbox: autoDraw = False
+79.5701 	EXP 	stimuli_prompt: autoDraw = False
+79.5701 	EXP 	state_pics: autoDraw = False
+79.5701 	EXP 	textbox: autoDraw = False
+79.5701 	EXP 	state_pics: image = 'states/Maryland-Outline-Map.jpg'
+79.5738 	DATA 	Keypress: s
+80.0113 	EXP 	stimuli_prompt: autoDraw = True
+80.0113 	EXP 	state_pics: autoDraw = True
+80.0113 	EXP 	textbox: autoDraw = True
+80.8843 	DATA 	Keypress: backspace
+82.3008 	DATA 	Keypress: lshift
+82.5531 	DATA 	Keypress: r
+82.7326 	DATA 	Keypress: h
+82.8016 	DATA 	Keypress: o
+82.9013 	DATA 	Keypress: d
+83.0175 	DATA 	Keypress: e
+83.3888 	DATA 	Keypress: space
+83.5186 	DATA 	Keypress: lshift
+83.6521 	DATA 	Keypress: i
+83.8327 	DATA 	Keypress: s
+83.9178 	DATA 	Keypress: l
+84.0678 	DATA 	Keypress: a
+84.1848 	DATA 	Keypress: n
+84.2685 	DATA 	Keypress: d
+86.9984 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'image_file': 'states/Florida-Outline-Map.jpg', 'correct_answer': 'Florida', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+87.0923 	EXP 	stimuli_prompt: autoDraw = False
+87.0923 	EXP 	state_pics: autoDraw = False
+87.0923 	EXP 	textbox: autoDraw = False
+87.0923 	EXP 	stimuli_prompt: autoDraw = False
+87.0923 	EXP 	state_pics: autoDraw = False
+87.0923 	EXP 	textbox: autoDraw = False
+87.0923 	EXP 	state_pics: image = 'states/Florida-Outline-Map.jpg'
+87.5125 	EXP 	stimuli_prompt: autoDraw = True
+87.5125 	EXP 	state_pics: autoDraw = True
+87.5125 	EXP 	textbox: autoDraw = True
+88.4885 	DATA 	Keypress: lshift
+88.7900 	DATA 	Keypress: f
+88.7941 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+88.7946 	DEBUG 	Uploading Texture Font fontname to graphics card
+88.7955 	DEBUG 	Upload of Texture Font fontname complete
+88.9841 	DATA 	Keypress: l
+89.2219 	DATA 	Keypress: o
+89.3044 	DATA 	Keypress: r
+89.4214 	DATA 	Keypress: i
+89.5213 	DATA 	Keypress: d
+89.6378 	DATA 	Keypress: a
+94.4986 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'image_file': 'states/Arkansas-Outline-Map.jpg', 'correct_answer': 'Arkansas', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+94.5874 	EXP 	stimuli_prompt: autoDraw = False
+94.5874 	EXP 	state_pics: autoDraw = False
+94.5874 	EXP 	textbox: autoDraw = False
+94.5874 	EXP 	stimuli_prompt: autoDraw = False
+94.5874 	EXP 	state_pics: autoDraw = False
+94.5874 	EXP 	textbox: autoDraw = False
+94.5874 	EXP 	state_pics: image = 'states/Arkansas-Outline-Map.jpg'
+95.0138 	EXP 	stimuli_prompt: autoDraw = True
+95.0138 	EXP 	state_pics: autoDraw = True
+95.0138 	EXP 	textbox: autoDraw = True
+97.3870 	DATA 	Keypress: lshift
+97.5715 	DATA 	Keypress: u
+97.7182 	DATA 	Keypress: t
+97.8535 	DATA 	Keypress: a
+97.9695 	DATA 	Keypress: h
+102.0034 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'image_file': 'states/Nevada-Outline-Map.jpg', 'correct_answer': 'Nevada', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+102.1185 	EXP 	stimuli_prompt: autoDraw = False
+102.1185 	EXP 	state_pics: autoDraw = False
+102.1185 	EXP 	textbox: autoDraw = False
+102.1185 	EXP 	stimuli_prompt: autoDraw = False
+102.1185 	EXP 	state_pics: autoDraw = False
+102.1185 	EXP 	textbox: autoDraw = False
+102.1185 	EXP 	state_pics: image = 'states/Nevada-Outline-Map.jpg'
+102.5147 	EXP 	stimuli_prompt: autoDraw = True
+102.5147 	EXP 	state_pics: autoDraw = True
+102.5147 	EXP 	textbox: autoDraw = True
+103.6401 	DATA 	Keypress: lshift
+103.8881 	DATA 	Keypress: n
+104.1252 	DATA 	Keypress: e
+104.2901 	DATA 	Keypress: v
+104.2928 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+104.2932 	DEBUG 	Uploading Texture Font fontname to graphics card
+104.2940 	DEBUG 	Upload of Texture Font fontname complete
+104.4369 	DATA 	Keypress: a
+104.5743 	DATA 	Keypress: d
+104.6888 	DATA 	Keypress: a
+109.5025 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'image_file': 'states/Wyoming-Outline-Map.jpg', 'correct_answer': 'Wyoming', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+109.5731 	EXP 	stimuli_prompt: autoDraw = False
+109.5731 	EXP 	state_pics: autoDraw = False
+109.5731 	EXP 	textbox: autoDraw = False
+109.5731 	EXP 	stimuli_prompt: autoDraw = False
+109.5731 	EXP 	state_pics: autoDraw = False
+109.5731 	EXP 	textbox: autoDraw = False
+109.5731 	EXP 	state_pics: image = 'states/Wyoming-Outline-Map.jpg'
+110.0159 	EXP 	stimuli_prompt: autoDraw = True
+110.0159 	EXP 	state_pics: autoDraw = True
+110.0159 	EXP 	textbox: autoDraw = True
+112.5890 	DATA 	Keypress: lshift
+112.8882 	DATA 	Keypress: c
+113.0704 	DATA 	Keypress: o
+113.2877 	DATA 	Keypress: l
+113.4207 	DATA 	Keypress: o
+113.5218 	DATA 	Keypress: r
+113.6887 	DATA 	Keypress: a
+113.8361 	DATA 	Keypress: d
+113.9710 	DATA 	Keypress: o
+117.0026 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'image_file': 'states/Arizona-Outline-Map.jpg', 'correct_answer': 'Arizona', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+117.0400 	EXP 	stimuli_prompt: autoDraw = False
+117.0400 	EXP 	state_pics: autoDraw = False
+117.0400 	EXP 	textbox: autoDraw = False
+117.0400 	EXP 	stimuli_prompt: autoDraw = False
+117.0400 	EXP 	state_pics: autoDraw = False
+117.0400 	EXP 	textbox: autoDraw = False
+117.0400 	EXP 	state_pics: image = 'states/Arizona-Outline-Map.jpg'
+117.5167 	EXP 	stimuli_prompt: autoDraw = True
+117.5167 	EXP 	state_pics: autoDraw = True
+117.5167 	EXP 	textbox: autoDraw = True
+120.7561 	DATA 	Keypress: lshift
+120.9059 	DATA 	Keypress: n
+121.0709 	DATA 	Keypress: e
+121.2213 	DATA 	Keypress: v
+121.3367 	DATA 	Keypress: a
+121.4881 	DATA 	Keypress: d
+121.5880 	DATA 	Keypress: a
+124.5035 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'image_file': 'states/Ohio-Outline-Map.jpg', 'correct_answer': 'Ohio', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+124.6403 	EXP 	stimuli_prompt: autoDraw = False
+124.6403 	EXP 	state_pics: autoDraw = False
+124.6403 	EXP 	textbox: autoDraw = False
+124.6403 	EXP 	stimuli_prompt: autoDraw = False
+124.6403 	EXP 	state_pics: autoDraw = False
+124.6403 	EXP 	textbox: autoDraw = False
+124.6403 	EXP 	state_pics: image = 'states/Ohio-Outline-Map.jpg'
+125.0175 	EXP 	stimuli_prompt: autoDraw = True
+125.0175 	EXP 	state_pics: autoDraw = True
+125.0175 	EXP 	textbox: autoDraw = True
+126.4247 	DATA 	Keypress: lshift
+126.5781 	DATA 	Keypress: d
+126.5819 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+126.5824 	DEBUG 	Uploading Texture Font fontname to graphics card
+126.5839 	DEBUG 	Upload of Texture Font fontname complete
+126.7553 	DATA 	Keypress: e
+126.8918 	DATA 	Keypress: l
+126.9765 	DATA 	Keypress: a
+127.3233 	DATA 	Keypress: w
+127.4932 	DATA 	Keypress: a
+127.6264 	DATA 	Keypress: r
+127.7388 	DATA 	Keypress: e
+132.0042 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'image_file': 'states/Indiana-Outline-Map.jpg', 'correct_answer': 'Indiana', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+132.0659 	EXP 	stimuli_prompt: autoDraw = False
+132.0659 	EXP 	state_pics: autoDraw = False
+132.0659 	EXP 	textbox: autoDraw = False
+132.0659 	EXP 	stimuli_prompt: autoDraw = False
+132.0659 	EXP 	state_pics: autoDraw = False
+132.0659 	EXP 	textbox: autoDraw = False
+132.0659 	EXP 	state_pics: image = 'states/Indiana-Outline-Map.jpg'
+132.5179 	EXP 	stimuli_prompt: autoDraw = True
+132.5179 	EXP 	state_pics: autoDraw = True
+132.5179 	EXP 	textbox: autoDraw = True
+136.5652 	DATA 	Keypress: lshift
+136.7653 	DATA 	Keypress: a
+137.0104 	DATA 	Keypress: r
+137.1595 	DATA 	Keypress: i
+137.3430 	DATA 	Keypress: z
+137.3454 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+137.3458 	DEBUG 	Uploading Texture Font fontname to graphics card
+137.3463 	DEBUG 	Upload of Texture Font fontname complete
+137.4243 	DATA 	Keypress: o
+137.5594 	DATA 	Keypress: n
+137.6261 	DATA 	Keypress: a
+139.5078 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'image_file': 'states/New-Jersey-Outline-Map.jpg', 'correct_answer': 'New Jersey', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+139.6000 	EXP 	stimuli_prompt: autoDraw = False
+139.6000 	EXP 	state_pics: autoDraw = False
+139.6000 	EXP 	textbox: autoDraw = False
+139.6000 	EXP 	stimuli_prompt: autoDraw = False
+139.6000 	EXP 	state_pics: autoDraw = False
+139.6000 	EXP 	textbox: autoDraw = False
+139.6000 	EXP 	state_pics: image = 'states/New-Jersey-Outline-Map.jpg'
+140.0207 	EXP 	stimuli_prompt: autoDraw = True
+140.0207 	EXP 	state_pics: autoDraw = True
+140.0207 	EXP 	textbox: autoDraw = True
+142.5288 	DATA 	Keypress: lshift
+142.7258 	DATA 	Keypress: v
+142.8609 	DATA 	Keypress: i
+142.9607 	DATA 	Keypress: r
+143.0915 	DATA 	Keypress: g
+143.1597 	DATA 	Keypress: i
+143.2452 	DATA 	Keypress: n
+143.3422 	DATA 	Keypress: a
+144.2425 	DATA 	Keypress: backspace
+144.3915 	DATA 	Keypress: backspace
+144.5106 	DATA 	Keypress: a
+145.2266 	DATA 	Keypress: backspace
+145.4907 	DATA 	Keypress: backspace
+146.0075 	DATA 	Keypress: i
+146.1778 	DATA 	Keypress: n
+146.2935 	DATA 	Keypress: a
+146.4416 	DATA 	Keypress: i
+146.8238 	DATA 	Keypress: backspace
+146.9760 	DATA 	Keypress: backspace
+147.0063 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'image_file': 'states/Connecticut-Outline-Map.jpg', 'correct_answer': 'Connecticut', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+147.0954 	EXP 	stimuli_prompt: autoDraw = False
+147.0954 	EXP 	state_pics: autoDraw = False
+147.0954 	EXP 	textbox: autoDraw = False
+147.0954 	EXP 	stimuli_prompt: autoDraw = False
+147.0954 	EXP 	state_pics: autoDraw = False
+147.0954 	EXP 	textbox: autoDraw = False
+147.0954 	EXP 	state_pics: image = 'states/Connecticut-Outline-Map.jpg'
+147.1748 	DATA 	Keypress: i
+147.2409 	DATA 	Keypress: a
+147.5190 	EXP 	stimuli_prompt: autoDraw = True
+147.5190 	EXP 	state_pics: autoDraw = True
+147.5190 	EXP 	textbox: autoDraw = True
+148.3446 	DATA 	Keypress: backspace
+148.5290 	DATA 	Keypress: backspace
+149.7288 	DATA 	Keypress: lshift
+154.4948 	DATA 	Keypress: d
+154.5078 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'image_file': 'states/New-York-Outline-Map.jpg', 'correct_answer': 'New York', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+154.6005 	DATA 	Keypress: s
+154.6011 	DATA 	Keypress: f
+154.6132 	EXP 	stimuli_prompt: autoDraw = False
+154.6132 	EXP 	state_pics: autoDraw = False
+154.6132 	EXP 	textbox: autoDraw = False
+154.6132 	EXP 	stimuli_prompt: autoDraw = False
+154.6132 	EXP 	state_pics: autoDraw = False
+154.6132 	EXP 	textbox: autoDraw = False
+154.6132 	EXP 	state_pics: image = 'states/New-York-Outline-Map.jpg'
+155.1375 	EXP 	stimuli_prompt: autoDraw = True
+155.1375 	EXP 	state_pics: autoDraw = True
+155.1375 	EXP 	textbox: autoDraw = True
+156.0754 	DATA 	Keypress: backspace
+156.4267 	DATA 	Keypress: backspace
+157.9606 	DATA 	Keypress: lshift
+158.1445 	DATA 	Keypress: n
+158.2763 	DATA 	Keypress: e
+158.3768 	DATA 	Keypress: w
+158.5425 	DATA 	Keypress: space
+158.6754 	DATA 	Keypress: lshift
+158.7428 	DATA 	Keypress: y
+158.9432 	DATA 	Keypress: o
+159.0297 	DATA 	Keypress: r
+159.1599 	DATA 	Keypress: k
+162.0241 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'image_file': 'states/New-Mexico-Outline-Map.jpg', 'correct_answer': 'New Mexico', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+162.1208 	EXP 	stimuli_prompt: autoDraw = False
+162.1208 	EXP 	state_pics: autoDraw = False
+162.1208 	EXP 	textbox: autoDraw = False
+162.1208 	EXP 	state_pics: image = 'states/New-Mexico-Outline-Map.jpg'
+162.5215 	EXP 	stimuli_prompt: autoDraw = True
+162.5215 	EXP 	state_pics: autoDraw = True
+162.5215 	EXP 	textbox: autoDraw = True
+166.8945 	DATA 	Keypress: lshift
+167.2451 	DATA 	Keypress: o
+167.6933 	DATA 	Keypress: k
+168.1435 	DATA 	Keypress: l
+168.3278 	DATA 	Keypress: a
+168.7440 	DATA 	Keypress: h
+168.9275 	DATA 	Keypress: o
+169.1112 	DATA 	Keypress: m
+169.2442 	DATA 	Keypress: a
+169.5093 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'image_file': 'states/Alabama-Outline-Map.jpg', 'correct_answer': 'Alabama', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+169.5779 	EXP 	stimuli_prompt: autoDraw = False
+169.5779 	EXP 	state_pics: autoDraw = False
+169.5779 	EXP 	textbox: autoDraw = False
+169.5779 	EXP 	stimuli_prompt: autoDraw = False
+169.5779 	EXP 	state_pics: autoDraw = False
+169.5779 	EXP 	textbox: autoDraw = False
+169.5779 	EXP 	state_pics: image = 'states/Alabama-Outline-Map.jpg'
+170.0221 	EXP 	stimuli_prompt: autoDraw = True
+170.0221 	EXP 	state_pics: autoDraw = True
+170.0221 	EXP 	textbox: autoDraw = True
+172.4793 	DATA 	Keypress: lshift
+172.6633 	DATA 	Keypress: u
+172.8282 	DATA 	Keypress: t
+172.9777 	DATA 	Keypress: a
+173.0445 	DATA 	Keypress: h
+177.0095 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'image_file': 'states/Montana-Outline-Map.jpg', 'correct_answer': 'Montana', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+177.0731 	EXP 	stimuli_prompt: autoDraw = False
+177.0731 	EXP 	state_pics: autoDraw = False
+177.0731 	EXP 	textbox: autoDraw = False
+177.0731 	EXP 	state_pics: image = 'states/Montana-Outline-Map.jpg'
+177.5233 	EXP 	stimuli_prompt: autoDraw = True
+177.5233 	EXP 	state_pics: autoDraw = True
+177.5233 	EXP 	textbox: autoDraw = True
+178.1132 	DATA 	Keypress: lshift
+178.3292 	DATA 	Keypress: m
+178.5620 	DATA 	Keypress: i
+178.7782 	DATA 	Keypress: n
+178.9288 	DATA 	Keypress: n
+179.2275 	DATA 	Keypress: e
+179.5952 	DATA 	Keypress: s
+179.7118 	DATA 	Keypress: o
+179.8474 	DATA 	Keypress: t
+180.0124 	DATA 	Keypress: a
+184.5100 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'image_file': 'states/Idaho-Outline-Map.jpg', 'correct_answer': 'Idaho', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+184.5838 	EXP 	stimuli_prompt: autoDraw = False
+184.5838 	EXP 	state_pics: autoDraw = False
+184.5838 	EXP 	textbox: autoDraw = False
+184.5838 	EXP 	state_pics: image = 'states/Idaho-Outline-Map.jpg'
+185.0244 	EXP 	stimuli_prompt: autoDraw = True
+185.0244 	EXP 	state_pics: autoDraw = True
+185.0244 	EXP 	textbox: autoDraw = True
+186.2479 	DATA 	Keypress: lshift
+186.3974 	DATA 	Keypress: u
+186.5125 	DATA 	Keypress: t
+186.6459 	DATA 	Keypress: a
+186.7958 	DATA 	Keypress: h
+187.7627 	DATA 	Keypress: backspace
+187.9798 	DATA 	Keypress: backspace
+188.0953 	DATA 	Keypress: backspace
+188.2300 	DATA 	Keypress: backspace
+188.5814 	DATA 	Keypress: lshift
+188.7482 	DATA 	Keypress: i
+188.9614 	DATA 	Keypress: l
+189.0802 	DATA 	Keypress: l
+189.2635 	DATA 	Keypress: i
+189.4472 	DATA 	Keypress: n
+189.6459 	DATA 	Keypress: o
+189.7636 	DATA 	Keypress: i
+189.9129 	DATA 	Keypress: s
+192.0108 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'image_file': 'states/Virginia-Outline-Map.jpg', 'correct_answer': 'Virginia', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+192.0622 	EXP 	stimuli_prompt: autoDraw = False
+192.0622 	EXP 	state_pics: autoDraw = False
+192.0622 	EXP 	textbox: autoDraw = False
+192.0622 	EXP 	state_pics: image = 'states/Virginia-Outline-Map.jpg'
+192.5091 	EXP 	stimuli_prompt: autoDraw = True
+192.5091 	EXP 	state_pics: autoDraw = True
+192.5091 	EXP 	textbox: autoDraw = True
+195.4813 	DATA 	Keypress: lshift
+195.7135 	DATA 	Keypress: w
+195.9310 	DATA 	Keypress: e
+196.0811 	DATA 	Keypress: s
+196.2475 	DATA 	Keypress: t
+196.3649 	DATA 	Keypress: space
+196.5129 	DATA 	Keypress: lshift
+196.6977 	DATA 	Keypress: v
+197.2967 	DATA 	Keypress: i
+197.6642 	DATA 	Keypress: r
+197.8977 	DATA 	Keypress: g
+198.0811 	DATA 	Keypress: i
+198.3307 	DATA 	Keypress: n
+198.4641 	DATA 	Keypress: i
+198.5642 	DATA 	Keypress: a
+199.4957 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'image_file': 'states/North-Dakota-Outline-Map.jpg', 'correct_answer': 'North Dakota', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+199.5627 	EXP 	stimuli_prompt: autoDraw = False
+199.5627 	EXP 	state_pics: autoDraw = False
+199.5627 	EXP 	textbox: autoDraw = False
+199.5627 	EXP 	stimuli_prompt: autoDraw = False
+199.5627 	EXP 	state_pics: autoDraw = False
+199.5627 	EXP 	textbox: autoDraw = False
+199.5627 	EXP 	state_pics: image = 'states/North-Dakota-Outline-Map.jpg'
+200.0092 	EXP 	stimuli_prompt: autoDraw = True
+200.0092 	EXP 	state_pics: autoDraw = True
+200.0092 	EXP 	textbox: autoDraw = True
+205.8844 	DATA 	Keypress: lshift
+206.1010 	DATA 	Keypress: k
+206.1037 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+206.1040 	DEBUG 	Uploading Texture Font fontname to graphics card
+206.1047 	DEBUG 	Upload of Texture Font fontname complete
+206.9954 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'image_file': 'states/South-Carolina-Outline-Map.jpg', 'correct_answer': 'South Carolina', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+207.0844 	EXP 	stimuli_prompt: autoDraw = False
+207.0844 	EXP 	state_pics: autoDraw = False
+207.0844 	EXP 	textbox: autoDraw = False
+207.0844 	EXP 	stimuli_prompt: autoDraw = False
+207.0844 	EXP 	state_pics: autoDraw = False
+207.0844 	EXP 	textbox: autoDraw = False
+207.0844 	EXP 	state_pics: image = 'states/South-Carolina-Outline-Map.jpg'
+207.5117 	EXP 	stimuli_prompt: autoDraw = True
+207.5117 	EXP 	state_pics: autoDraw = True
+207.5117 	EXP 	textbox: autoDraw = True
+210.6023 	DATA 	Keypress: i
+210.7358 	DATA 	Keypress: d
+210.8325 	DATA 	Keypress: k
+214.4980 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'image_file': 'states/Alaska-Outline-Map.jpg', 'correct_answer': 'Alaska', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+214.5606 	EXP 	stimuli_prompt: autoDraw = False
+214.5606 	EXP 	state_pics: autoDraw = False
+214.5606 	EXP 	textbox: autoDraw = False
+214.5606 	EXP 	stimuli_prompt: autoDraw = False
+214.5606 	EXP 	state_pics: autoDraw = False
+214.5606 	EXP 	textbox: autoDraw = False
+214.5606 	EXP 	state_pics: image = 'states/Alaska-Outline-Map.jpg'
+215.0114 	EXP 	stimuli_prompt: autoDraw = True
+215.0114 	EXP 	state_pics: autoDraw = True
+215.0114 	EXP 	textbox: autoDraw = True
+215.9021 	DATA 	Keypress: lshift
+216.1363 	DATA 	Keypress: a
+216.3510 	DATA 	Keypress: l
+216.4176 	DATA 	Keypress: a
+216.6337 	DATA 	Keypress: s
+216.7659 	DATA 	Keypress: k
+216.8503 	DATA 	Keypress: a
+221.9991 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'image_file': 'states/Colorado-Outline-Map.jpg', 'correct_answer': 'Colorado', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+222.0906 	EXP 	stimuli_prompt: autoDraw = False
+222.0906 	EXP 	state_pics: autoDraw = False
+222.0906 	EXP 	textbox: autoDraw = False
+222.0906 	EXP 	stimuli_prompt: autoDraw = False
+222.0906 	EXP 	state_pics: autoDraw = False
+222.0906 	EXP 	textbox: autoDraw = False
+222.0906 	EXP 	state_pics: image = 'states/Colorado-Outline-Map.jpg'
+222.5123 	EXP 	stimuli_prompt: autoDraw = True
+222.5123 	EXP 	state_pics: autoDraw = True
+222.5123 	EXP 	textbox: autoDraw = True
+224.1009 	DATA 	Keypress: lshift
+225.0689 	DATA 	Keypress: c
+225.3351 	DATA 	Keypress: o
+225.5687 	DATA 	Keypress: l
+225.7346 	DATA 	Keypress: o
+225.8006 	DATA 	Keypress: r
+225.9508 	DATA 	Keypress: a
+226.0671 	DATA 	Keypress: d
+226.1680 	DATA 	Keypress: o
+229.4998 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'image_file': 'states/Michigan-Outline-Map.jpg', 'correct_answer': 'Michigan', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+229.5978 	EXP 	stimuli_prompt: autoDraw = False
+229.5978 	EXP 	state_pics: autoDraw = False
+229.5978 	EXP 	textbox: autoDraw = False
+229.5978 	EXP 	stimuli_prompt: autoDraw = False
+229.5978 	EXP 	state_pics: autoDraw = False
+229.5978 	EXP 	textbox: autoDraw = False
+229.5978 	EXP 	state_pics: image = 'states/Michigan-Outline-Map.jpg'
+230.0133 	EXP 	stimuli_prompt: autoDraw = True
+230.0133 	EXP 	state_pics: autoDraw = True
+230.0133 	EXP 	textbox: autoDraw = True
+233.0357 	DATA 	Keypress: lshift
+233.2027 	DATA 	Keypress: m
+233.3531 	DATA 	Keypress: i
+233.5353 	DATA 	Keypress: n
+233.6858 	DATA 	Keypress: n
+233.8348 	DATA 	Keypress: e
+234.0345 	DATA 	Keypress: s
+234.1360 	DATA 	Keypress: o
+234.2536 	DATA 	Keypress: t
+234.4023 	DATA 	Keypress: a
+236.0371 	DATA 	Keypress: backspace
+236.7362 	DATA 	Keypress: a
+237.0008 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'image_file': 'states/Vermont-Outline-Map.jpg', 'correct_answer': 'Vermont', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+237.0704 	EXP 	stimuli_prompt: autoDraw = False
+237.0704 	EXP 	state_pics: autoDraw = False
+237.0704 	EXP 	textbox: autoDraw = False
+237.0704 	EXP 	stimuli_prompt: autoDraw = False
+237.0704 	EXP 	state_pics: autoDraw = False
+237.0704 	EXP 	textbox: autoDraw = False
+237.0704 	EXP 	state_pics: image = 'states/Vermont-Outline-Map.jpg'
+237.5140 	EXP 	stimuli_prompt: autoDraw = True
+237.5140 	EXP 	state_pics: autoDraw = True
+237.5140 	EXP 	textbox: autoDraw = True
+238.8358 	DATA 	Keypress: lshift
+239.9542 	DATA 	Keypress: i
+240.1032 	DATA 	Keypress: d
+240.2068 	DATA 	Keypress: a
+240.3544 	DATA 	Keypress: h
+240.4190 	DATA 	Keypress: o
+244.5042 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'image_file': 'states/Pennsylvania-Outline-Map.jpg', 'correct_answer': 'Pennsylvania', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+244.6035 	EXP 	stimuli_prompt: autoDraw = False
+244.6035 	EXP 	state_pics: autoDraw = False
+244.6035 	EXP 	textbox: autoDraw = False
+244.6035 	EXP 	stimuli_prompt: autoDraw = False
+244.6035 	EXP 	state_pics: autoDraw = False
+244.6035 	EXP 	textbox: autoDraw = False
+244.6035 	EXP 	state_pics: image = 'states/Pennsylvania-Outline-Map.jpg'
+245.0153 	EXP 	stimuli_prompt: autoDraw = True
+245.0153 	EXP 	state_pics: autoDraw = True
+245.0153 	EXP 	textbox: autoDraw = True
+247.1913 	DATA 	Keypress: lshift
+247.4561 	DATA 	Keypress: a
+247.6883 	DATA 	Keypress: r
+247.8042 	DATA 	Keypress: i
+247.9702 	DATA 	Keypress: z
+248.0740 	DATA 	Keypress: o
+248.1895 	DATA 	Keypress: n
+248.2403 	DATA 	Keypress: a
+252.0026 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'image_file': 'states/Wisconsin-Outline-Map.jpg', 'correct_answer': 'Wisconsin', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+252.1104 	EXP 	stimuli_prompt: autoDraw = False
+252.1104 	EXP 	state_pics: autoDraw = False
+252.1104 	EXP 	textbox: autoDraw = False
+252.1104 	EXP 	stimuli_prompt: autoDraw = False
+252.1104 	EXP 	state_pics: autoDraw = False
+252.1104 	EXP 	textbox: autoDraw = False
+252.1104 	EXP 	state_pics: image = 'states/Wisconsin-Outline-Map.jpg'
+252.5160 	EXP 	stimuli_prompt: autoDraw = True
+252.5160 	EXP 	state_pics: autoDraw = True
+252.5160 	EXP 	textbox: autoDraw = True
+254.6737 	DATA 	Keypress: lshift
+254.9562 	DATA 	Keypress: v
+255.1384 	DATA 	Keypress: i
+255.2211 	DATA 	Keypress: r
+255.3719 	DATA 	Keypress: g
+255.4883 	DATA 	Keypress: i
+255.6886 	DATA 	Keypress: n
+255.8546 	DATA 	Keypress: i
+255.9220 	DATA 	Keypress: a
+259.5054 	EXP 	New trial (rep=0, index=34): <Trial 34 (34 in rep 0) data={'image_file': 'states/Louisiana-Outline-Map.jpg', 'correct_answer': 'Louisiana', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 0}>
+259.6403 	EXP 	stimuli_prompt: autoDraw = False
+259.6403 	EXP 	state_pics: autoDraw = False
+259.6403 	EXP 	textbox: autoDraw = False
+259.6403 	EXP 	stimuli_prompt: autoDraw = False
+259.6403 	EXP 	state_pics: autoDraw = False
+259.6403 	EXP 	textbox: autoDraw = False
+259.6403 	EXP 	state_pics: image = 'states/Louisiana-Outline-Map.jpg'
+260.0181 	EXP 	stimuli_prompt: autoDraw = True
+260.0181 	EXP 	state_pics: autoDraw = True
+260.0181 	EXP 	textbox: autoDraw = True
+261.0920 	DATA 	Keypress: lshift
+261.2597 	DATA 	Keypress: l
+261.2639 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+261.2643 	DEBUG 	Uploading Texture Font fontname to graphics card
+261.2651 	DEBUG 	Upload of Texture Font fontname complete
+261.4741 	DATA 	Keypress: o
+261.6430 	DATA 	Keypress: u
+262.3735 	DATA 	Keypress: i
+262.5227 	DATA 	Keypress: s
+263.1726 	DATA 	Keypress: i
+263.5922 	DATA 	Keypress: a
+263.7083 	DATA 	Keypress: n
+263.7940 	DATA 	Keypress: a
+267.0060 	EXP 	New trial (rep=0, index=35): <Trial 35 (35 in rep 0) data={'image_file': 'states/Delaware-Outline-Map.jpg', 'correct_answer': 'Delaware', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 0}>
+267.0872 	EXP 	stimuli_prompt: autoDraw = False
+267.0872 	EXP 	state_pics: autoDraw = False
+267.0872 	EXP 	textbox: autoDraw = False
+267.0872 	EXP 	stimuli_prompt: autoDraw = False
+267.0872 	EXP 	state_pics: autoDraw = False
+267.0872 	EXP 	textbox: autoDraw = False
+267.0872 	EXP 	state_pics: image = 'states/Delaware-Outline-Map.jpg'
+267.5170 	EXP 	stimuli_prompt: autoDraw = True
+267.5170 	EXP 	state_pics: autoDraw = True
+267.5170 	EXP 	textbox: autoDraw = True
+268.6910 	DATA 	Keypress: lshift
+269.1086 	DATA 	Keypress: k
+269.2894 	DATA 	Keypress: e
+269.3914 	DATA 	Keypress: n
+269.7900 	DATA 	Keypress: backspace
+269.9279 	DATA 	Keypress: backspace
+270.0603 	DATA 	Keypress: backspace
+270.2428 	DATA 	Keypress: lshift
+272.1248 	DATA 	Keypress: i
+272.5101 	DATA 	Keypress: d
+272.6435 	DATA 	Keypress: a
+272.7427 	DATA 	Keypress: h
+272.7937 	DATA 	Keypress: o
+274.5067 	EXP 	New trial (rep=0, index=36): <Trial 36 (36 in rep 0) data={'image_file': 'states/Illinois-Outline-Map.jpg', 'correct_answer': 'Illinois', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 0}>
+274.5963 	EXP 	stimuli_prompt: autoDraw = False
+274.5963 	EXP 	state_pics: autoDraw = False
+274.5963 	EXP 	textbox: autoDraw = False
+274.5963 	EXP 	stimuli_prompt: autoDraw = False
+274.5963 	EXP 	state_pics: autoDraw = False
+274.5963 	EXP 	textbox: autoDraw = False
+274.5963 	EXP 	state_pics: image = 'states/Illinois-Outline-Map.jpg'
+275.0186 	EXP 	stimuli_prompt: autoDraw = True
+275.0186 	EXP 	state_pics: autoDraw = True
+275.0186 	EXP 	textbox: autoDraw = True
+276.0411 	DATA 	Keypress: lshift
+277.7617 	DATA 	Keypress: a
+277.9405 	DATA 	Keypress: l
+278.0920 	DATA 	Keypress: a
+278.7236 	DATA 	Keypress: backspace
+278.8729 	DATA 	Keypress: backspace
+279.3574 	DATA 	Keypress: backspace
+279.7420 	DATA 	Keypress: lshift
+282.0058 	EXP 	New trial (rep=0, index=37): <Trial 37 (37 in rep 0) data={'image_file': 'states/Rhode-Island-Outline-Map.jpg', 'correct_answer': 'Rhode Island', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 0}>
+282.0810 	EXP 	stimuli_prompt: autoDraw = False
+282.0810 	EXP 	state_pics: autoDraw = False
+282.0810 	EXP 	textbox: autoDraw = False
+282.0810 	EXP 	stimuli_prompt: autoDraw = False
+282.0810 	EXP 	state_pics: autoDraw = False
+282.0810 	EXP 	textbox: autoDraw = False
+282.0810 	EXP 	state_pics: image = 'states/Rhode-Island-Outline-Map.jpg'
+282.5184 	EXP 	stimuli_prompt: autoDraw = True
+282.5184 	EXP 	state_pics: autoDraw = True
+282.5184 	EXP 	textbox: autoDraw = True
+289.0142 	DATA 	Keypress: b
+289.1288 	DATA 	Keypress: a
+289.2949 	DATA 	Keypress: c
+289.3784 	DATA 	Keypress: o
+289.4627 	DATA 	Keypress: n
+289.5088 	EXP 	New trial (rep=0, index=38): <Trial 38 (38 in rep 0) data={'image_file': 'states/Oregon-Outline-Map.jpg', 'correct_answer': 'Oregon', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 0}>
+289.6296 	EXP 	stimuli_prompt: autoDraw = False
+289.6296 	EXP 	state_pics: autoDraw = False
+289.6296 	EXP 	textbox: autoDraw = False
+289.6296 	EXP 	stimuli_prompt: autoDraw = False
+289.6296 	EXP 	state_pics: autoDraw = False
+289.6296 	EXP 	textbox: autoDraw = False
+289.6296 	EXP 	state_pics: image = 'states/Oregon-Outline-Map.jpg'
+290.0204 	EXP 	stimuli_prompt: autoDraw = True
+290.0204 	EXP 	state_pics: autoDraw = True
+290.0204 	EXP 	textbox: autoDraw = True
+291.5439 	DATA 	Keypress: i
+291.6316 	DATA 	Keypress: d
+291.7624 	DATA 	Keypress: k
+297.0081 	EXP 	New trial (rep=0, index=39): <Trial 39 (39 in rep 0) data={'image_file': 'states/Minnesota-Outline-Map.jpg', 'correct_answer': 'Minnesota', 'thisN': 39, 'thisTrialN': 39, 'thisRepN': 0}>
+297.0952 	EXP 	stimuli_prompt: autoDraw = False
+297.0952 	EXP 	state_pics: autoDraw = False
+297.0952 	EXP 	textbox: autoDraw = False
+297.0952 	EXP 	stimuli_prompt: autoDraw = False
+297.0952 	EXP 	state_pics: autoDraw = False
+297.0952 	EXP 	textbox: autoDraw = False
+297.0952 	EXP 	state_pics: image = 'states/Minnesota-Outline-Map.jpg'
+297.5204 	EXP 	stimuli_prompt: autoDraw = True
+297.5204 	EXP 	state_pics: autoDraw = True
+297.5204 	EXP 	textbox: autoDraw = True
+300.2671 	DATA 	Mouse: Left button down, pos=(357,262)
+300.7122 	DATA 	Mouse:  Left button up, pos=(619,276)
+304.5101 	EXP 	New trial (rep=0, index=40): <Trial 40 (40 in rep 0) data={'image_file': 'states/Utah-Outline-Map.jpg', 'correct_answer': 'Utah', 'thisN': 40, 'thisTrialN': 40, 'thisRepN': 0}>
+304.6243 	EXP 	stimuli_prompt: autoDraw = False
+304.6243 	EXP 	state_pics: autoDraw = False
+304.6243 	EXP 	textbox: autoDraw = False
+304.6243 	EXP 	state_pics: image = 'states/Utah-Outline-Map.jpg'
+305.0216 	EXP 	stimuli_prompt: autoDraw = True
+305.0216 	EXP 	state_pics: autoDraw = True
+305.0216 	EXP 	textbox: autoDraw = True
+312.0094 	EXP 	New trial (rep=0, index=41): <Trial 41 (41 in rep 0) data={'image_file': 'states/Georgia-Outline-Map.jpg', 'correct_answer': 'Georgia', 'thisN': 41, 'thisTrialN': 41, 'thisRepN': 0}>
+312.1342 	EXP 	stimuli_prompt: autoDraw = False
+312.1342 	EXP 	state_pics: autoDraw = False
+312.1342 	EXP 	textbox: autoDraw = False
+312.1342 	EXP 	stimuli_prompt: autoDraw = False
+312.1342 	EXP 	state_pics: autoDraw = False
+312.1342 	EXP 	textbox: autoDraw = False
+312.1342 	EXP 	state_pics: image = 'states/Georgia-Outline-Map.jpg'
+312.5231 	EXP 	stimuli_prompt: autoDraw = True
+312.5231 	EXP 	state_pics: autoDraw = True
+312.5231 	EXP 	textbox: autoDraw = True
+315.3146 	DATA 	Keypress: lshift
+315.6683 	DATA 	Keypress: c
+315.9318 	DATA 	Keypress: r
+319.5118 	EXP 	New trial (rep=0, index=42): <Trial 42 (42 in rep 0) data={'image_file': 'states/Iowa-Outline-Map.jpg', 'correct_answer': 'Iowa', 'thisN': 42, 'thisTrialN': 42, 'thisRepN': 0}>
+319.6020 	EXP 	stimuli_prompt: autoDraw = False
+319.6020 	EXP 	state_pics: autoDraw = False
+319.6020 	EXP 	textbox: autoDraw = False
+319.6020 	EXP 	state_pics: image = 'states/Iowa-Outline-Map.jpg'
+320.0242 	EXP 	stimuli_prompt: autoDraw = True
+320.0242 	EXP 	state_pics: autoDraw = True
+320.0242 	EXP 	textbox: autoDraw = True
+324.5818 	DATA 	Keypress: h
+325.1141 	DATA 	Keypress: a
+327.0111 	EXP 	New trial (rep=0, index=43): <Trial 43 (43 in rep 0) data={'image_file': 'states/Washington-Outline-Map.jpg', 'correct_answer': 'Washington', 'thisN': 43, 'thisTrialN': 43, 'thisRepN': 0}>
+327.0834 	EXP 	stimuli_prompt: autoDraw = False
+327.0834 	EXP 	state_pics: autoDraw = False
+327.0834 	EXP 	textbox: autoDraw = False
+327.0834 	EXP 	state_pics: image = 'states/Washington-Outline-Map.jpg'
+327.5247 	EXP 	stimuli_prompt: autoDraw = True
+327.5247 	EXP 	state_pics: autoDraw = True
+327.5247 	EXP 	textbox: autoDraw = True
+331.8819 	DATA 	Keypress: lshift
+332.6155 	DATA 	Keypress: k
+332.8472 	DATA 	Keypress: e
+332.9465 	DATA 	Keypress: n
+333.0144 	DATA 	Keypress: t
+333.1640 	DATA 	Keypress: u
+333.2309 	DATA 	Keypress: c
+333.3802 	DATA 	Keypress: k
+333.6473 	DATA 	Keypress: y
+334.5110 	EXP 	New trial (rep=0, index=44): <Trial 44 (44 in rep 0) data={'image_file': 'states/Hawaii-Outline-Map.jpg', 'correct_answer': 'Hawaii', 'thisN': 44, 'thisTrialN': 44, 'thisRepN': 0}>
+334.5767 	EXP 	stimuli_prompt: autoDraw = False
+334.5767 	EXP 	state_pics: autoDraw = False
+334.5767 	EXP 	textbox: autoDraw = False
+334.5767 	EXP 	state_pics: image = 'states/Hawaii-Outline-Map.jpg'
+335.0087 	EXP 	stimuli_prompt: autoDraw = True
+335.0087 	EXP 	state_pics: autoDraw = True
+335.0087 	EXP 	textbox: autoDraw = True
+336.7825 	DATA 	Keypress: lshift
+337.1487 	DATA 	Keypress: h
+337.1509 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+337.1512 	DEBUG 	Uploading Texture Font fontname to graphics card
+337.1516 	DEBUG 	Upload of Texture Font fontname complete
+337.4646 	DATA 	Keypress: a
+337.7983 	DATA 	Keypress: w
+338.2150 	DATA 	Keypress: a
+338.5143 	DATA 	Keypress: i
+338.6476 	DATA 	Keypress: i
+341.9963 	EXP 	New trial (rep=0, index=45): <Trial 45 (45 in rep 0) data={'image_file': 'states/Mississippi-Outline-Map.jpg', 'correct_answer': 'Mississippi', 'thisN': 45, 'thisTrialN': 45, 'thisRepN': 0}>
+342.0543 	EXP 	stimuli_prompt: autoDraw = False
+342.0543 	EXP 	state_pics: autoDraw = False
+342.0543 	EXP 	textbox: autoDraw = False
+342.0543 	EXP 	stimuli_prompt: autoDraw = False
+342.0543 	EXP 	state_pics: autoDraw = False
+342.0543 	EXP 	textbox: autoDraw = False
+342.0543 	EXP 	state_pics: image = 'states/Mississippi-Outline-Map.jpg'
+342.5101 	EXP 	stimuli_prompt: autoDraw = True
+342.5101 	EXP 	state_pics: autoDraw = True
+342.5101 	EXP 	textbox: autoDraw = True
+345.2171 	DATA 	Keypress: lshift
+346.4681 	DATA 	Keypress: r
+346.6659 	DATA 	Keypress: h
+346.7158 	DATA 	Keypress: o
+346.8513 	DATA 	Keypress: d
+347.4330 	DATA 	Keypress: e
+347.7492 	DATA 	Keypress: space
+347.9992 	DATA 	Keypress: lshift
+348.1659 	DATA 	Keypress: i
+348.3843 	DATA 	Keypress: s
+348.5320 	DATA 	Keypress: l
+348.6156 	DATA 	Keypress: a
+348.7654 	DATA 	Keypress: n
+348.8499 	DATA 	Keypress: d
+349.4961 	EXP 	New trial (rep=0, index=46): <Trial 46 (46 in rep 0) data={'image_file': 'states/West-Virginia-Outline-Map.jpg', 'correct_answer': 'West Virginia', 'thisN': 46, 'thisTrialN': 46, 'thisRepN': 0}>
+349.5857 	EXP 	stimuli_prompt: autoDraw = False
+349.5857 	EXP 	state_pics: autoDraw = False
+349.5857 	EXP 	textbox: autoDraw = False
+349.5857 	EXP 	stimuli_prompt: autoDraw = False
+349.5857 	EXP 	state_pics: autoDraw = False
+349.5857 	EXP 	textbox: autoDraw = False
+349.5857 	EXP 	state_pics: image = 'states/West-Virginia-Outline-Map.jpg'
+350.0106 	EXP 	stimuli_prompt: autoDraw = True
+350.0106 	EXP 	state_pics: autoDraw = True
+350.0106 	EXP 	textbox: autoDraw = True
+351.8678 	DATA 	Keypress: lshift
+352.0550 	DATA 	Keypress: w
+352.2863 	DATA 	Keypress: e
+352.4528 	DATA 	Keypress: s
+352.6356 	DATA 	Keypress: t
+352.9663 	DATA 	Keypress: space
+353.0860 	DATA 	Keypress: lshift
+353.3003 	DATA 	Keypress: v
+353.4876 	DATA 	Keypress: i
+353.5507 	DATA 	Keypress: r
+353.7024 	DATA 	Keypress: g
+353.8193 	DATA 	Keypress: i
+354.5028 	DATA 	Keypress: n
+354.6702 	DATA 	Keypress: i
+354.7698 	DATA 	Keypress: a
+356.9989 	EXP 	New trial (rep=0, index=47): <Trial 47 (47 in rep 0) data={'image_file': 'states/Massachusetts-Outline-Map.jpg', 'correct_answer': 'Massachusetts', 'thisN': 47, 'thisTrialN': 47, 'thisRepN': 0}>
+357.0857 	EXP 	stimuli_prompt: autoDraw = False
+357.0857 	EXP 	state_pics: autoDraw = False
+357.0857 	EXP 	textbox: autoDraw = False
+357.0857 	EXP 	stimuli_prompt: autoDraw = False
+357.0857 	EXP 	state_pics: autoDraw = False
+357.0857 	EXP 	textbox: autoDraw = False
+357.0857 	EXP 	state_pics: image = 'states/Massachusetts-Outline-Map.jpg'
+357.5119 	EXP 	stimuli_prompt: autoDraw = True
+357.5119 	EXP 	state_pics: autoDraw = True
+357.5119 	EXP 	textbox: autoDraw = True
+359.0844 	DATA 	Keypress: lshift
+359.3179 	DATA 	Keypress: r
+359.4516 	DATA 	Keypress: h
+359.5170 	DATA 	Keypress: o
+359.5852 	DATA 	Keypress: d
+359.6859 	DATA 	Keypress: e
+359.7866 	DATA 	Keypress: space
+359.9699 	DATA 	Keypress: lshift
+360.0375 	DATA 	Keypress: i
+360.1669 	DATA 	Keypress: s
+360.2507 	DATA 	Keypress: l
+360.3553 	DATA 	Keypress: a
+360.4702 	DATA 	Keypress: n
+360.5383 	DATA 	Keypress: d
+364.4990 	EXP 	New trial (rep=0, index=48): <Trial 48 (48 in rep 0) data={'image_file': 'states/Nebraska-Outline-Map.jpg', 'correct_answer': 'Nebraska', 'thisN': 48, 'thisTrialN': 48, 'thisRepN': 0}>
+364.5546 	EXP 	stimuli_prompt: autoDraw = False
+364.5546 	EXP 	state_pics: autoDraw = False
+364.5546 	EXP 	textbox: autoDraw = False
+364.5546 	EXP 	stimuli_prompt: autoDraw = False
+364.5546 	EXP 	state_pics: autoDraw = False
+364.5546 	EXP 	textbox: autoDraw = False
+364.5546 	EXP 	state_pics: image = 'states/Nebraska-Outline-Map.jpg'
+365.0129 	EXP 	stimuli_prompt: autoDraw = True
+365.0129 	EXP 	state_pics: autoDraw = True
+365.0129 	EXP 	textbox: autoDraw = True
+367.2857 	DATA 	Keypress: lshift
+367.4520 	DATA 	Keypress: n
+367.5854 	DATA 	Keypress: e
+367.6844 	DATA 	Keypress: b
+367.7850 	DATA 	Keypress: r
+367.9345 	DATA 	Keypress: a
+368.1017 	DATA 	Keypress: s
+368.1682 	DATA 	Keypress: k
+368.2677 	DATA 	Keypress: a
+372.0004 	EXP 	New trial (rep=0, index=49): <Trial 49 (49 in rep 0) data={'image_file': 'states/Texas-Outline-Map.jpg', 'correct_answer': 'Texas', 'thisN': 49, 'thisTrialN': 49, 'thisRepN': 0}>
+372.1062 	EXP 	stimuli_prompt: autoDraw = False
+372.1062 	EXP 	state_pics: autoDraw = False
+372.1062 	EXP 	textbox: autoDraw = False
+372.1062 	EXP 	stimuli_prompt: autoDraw = False
+372.1062 	EXP 	state_pics: autoDraw = False
+372.1062 	EXP 	textbox: autoDraw = False
+372.1062 	EXP 	state_pics: image = 'states/Texas-Outline-Map.jpg'
+372.5137 	EXP 	stimuli_prompt: autoDraw = True
+372.5137 	EXP 	state_pics: autoDraw = True
+372.5137 	EXP 	textbox: autoDraw = True
+373.2547 	DATA 	Keypress: lshift
+373.4539 	DATA 	Keypress: t
+373.6685 	DATA 	Keypress: e
+373.8690 	DATA 	Keypress: x
+373.8712 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+373.8715 	DEBUG 	Uploading Texture Font fontname to graphics card
+373.8723 	DEBUG 	Upload of Texture Font fontname complete
+374.0364 	DATA 	Keypress: a
+374.1689 	DATA 	Keypress: s
+379.5133 	EXP 	stimuli_prompt: autoDraw = False
+379.5133 	EXP 	state_pics: autoDraw = False
+379.5133 	EXP 	textbox: autoDraw = False
+379.5133 	EXP 	stimuli_prompt: autoDraw = False
+379.5133 	EXP 	state_pics: autoDraw = False
+379.5133 	EXP 	textbox: autoDraw = False
+379.5151 	EXP 	state_naming_task: status = STOPPED
+379.5663 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/291900_state_naming_task_2025-04-11_17h55.41.324.csv'
+379.5679 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/291900_state_naming_task_2025-04-11_17h55.41.324.psydat
+380.3682 	DEBUG 	Saving data for state_naming_task ExperimentHandler

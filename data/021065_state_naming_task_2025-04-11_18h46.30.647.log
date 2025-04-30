@@ -1,0 +1,61 @@
+7.1240 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+7.1500 	WARNING 	User requested fullscreen with size [1536  960], but screen is actually [1920, 1200]. Using actual size
+7.5809 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002818FCC9480>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002818FCC94E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002818FDAD450>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.5810 	EXP 	window1: backgroundImage = ''
+7.5810 	EXP 	window1: backgroundFit = 'none'
+7.6575 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.6576 	EXP 	window1: recordFrameIntervals = False
+7.9005 	EXP 	window1: recordFrameIntervals = True
+8.0839 	EXP 	Screen (0) actual frame rate measured at 60.01Hz
+8.0840 	EXP 	window1: recordFrameIntervals = False
+11.4116 	INFO 	keyboard.Keyboard is using iohub backend.
+11.4117 	INFO 	keyboard.Keyboard is using iohub backend.
+11.4117 	INFO 	keyboard.Keyboard is using iohub backend.
+11.4117 	EXP 	state_naming_task: status = STARTED
+11.5145 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.5190 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+11.5237 	EXP 	Created state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.1, 0.9]), texRes=128.0, units='height', win=Window(...))
+11.5731 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0036 	EXP 	us_state_response: autoLog = True
+0.0191 	INFO 	Keyboard events cleared
+0.0187 	EXP 	task_instructions: autoDraw = True
+22.2951 	EXP 	Imported states/loop_us_state_trials.xlsx as conditions, 50 conditions, 2 params
+22.2959 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'image_file': 'states/Michigan-Outline-Map.jpg', 'correct_answer': 'Michigan', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+22.3815 	DATA 	Keypress: space
+22.4343 	EXP 	task_instructions: autoDraw = False
+22.4343 	EXP 	state_pics: image = 'states/Michigan-Outline-Map.jpg'
+22.8006 	EXP 	stimuli_prompt: autoDraw = True
+22.8006 	EXP 	state_pics: autoDraw = True
+22.8006 	EXP 	us_state_response: autoDraw = True
+29.7819 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'image_file': 'states/Wisconsin-Outline-Map.jpg', 'correct_answer': 'Wisconsin', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+29.9283 	EXP 	stimuli_prompt: autoDraw = False
+29.9283 	EXP 	state_pics: autoDraw = False
+29.9283 	EXP 	us_state_response: autoDraw = False
+29.9283 	EXP 	state_pics: image = 'states/Wisconsin-Outline-Map.jpg'
+30.2939 	EXP 	stimuli_prompt: autoDraw = True
+30.2939 	EXP 	state_pics: autoDraw = True
+30.2939 	EXP 	us_state_response: autoDraw = True
+37.2864 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'image_file': 'states/Pennsylvania-Outline-Map.jpg', 'correct_answer': 'Pennsylvania', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+37.3507 	EXP 	stimuli_prompt: autoDraw = False
+37.3507 	EXP 	state_pics: autoDraw = False
+37.3507 	EXP 	us_state_response: autoDraw = False
+37.3507 	EXP 	state_pics: image = 'states/Pennsylvania-Outline-Map.jpg'
+37.8050 	EXP 	stimuli_prompt: autoDraw = True
+37.8050 	EXP 	state_pics: autoDraw = True
+37.8050 	EXP 	us_state_response: autoDraw = True
+44.7835 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'image_file': 'states/New-Hampshire-Outline-Map.jpg', 'correct_answer': 'New Hampshire', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+44.8429 	EXP 	stimuli_prompt: autoDraw = False
+44.8429 	EXP 	state_pics: autoDraw = False
+44.8429 	EXP 	us_state_response: autoDraw = False
+44.8429 	EXP 	state_pics: image = 'states/New-Hampshire-Outline-Map.jpg'
+45.2943 	EXP 	stimuli_prompt: autoDraw = True
+45.2943 	EXP 	state_pics: autoDraw = True
+45.2943 	EXP 	us_state_response: autoDraw = True
+48.1745 	DATA 	Keypress: escape
+48.2847 	EXP 	state_naming_task: status = STOPPED
+48.3056 	EXP 	stimuli_prompt: autoDraw = False
+48.3056 	EXP 	state_pics: autoDraw = False
+48.3056 	EXP 	us_state_response: autoDraw = False
+48.3058 	EXP 	state_naming_task: status = STOPPED
+48.3094 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/021065_state_naming_task_2025-04-11_18h46.30.647.csv'
+48.3107 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/021065_state_naming_task_2025-04-11_18h46.30.647.psydat

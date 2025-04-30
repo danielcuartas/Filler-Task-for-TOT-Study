@@ -1,0 +1,51 @@
+9.3318 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+9.3507 	WARNING 	User requested fullscreen with size [1536  960], but screen is actually [1920, 1200]. Using actual size
+9.7981 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023C8A2BD240>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023C8A2BDFC0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023C96E89C00>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.7982 	EXP 	window1: backgroundImage = ''
+9.7982 	EXP 	window1: backgroundFit = 'none'
+9.8899 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.8900 	EXP 	window1: recordFrameIntervals = False
+10.1229 	EXP 	window1: recordFrameIntervals = True
+10.3063 	EXP 	Screen (0) actual frame rate measured at 60.06Hz
+10.3064 	EXP 	window1: recordFrameIntervals = False
+13.7321 	INFO 	keyboard.Keyboard is using iohub backend.
+13.7321 	INFO 	keyboard.Keyboard is using iohub backend.
+13.7322 	INFO 	keyboard.Keyboard is using iohub backend.
+13.7322 	EXP 	state_naming_task: status = STARTED
+13.8409 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.8462 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+13.8512 	EXP 	Created okay_state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=True, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='okay_state_pics', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.6, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.8821 	EXP 	Created stimuli_prompt_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='What is the name of this U.S. state?', units='height', win=Window(...), wrapWidth=1)
+13.8870 	EXP 	Created wider_state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='wider_state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.95, 0.5 ]), texRes=128.0, units='height', win=Window(...))
+13.9008 	EXP 	Created stimuli_prompt_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='What is the name of this U.S. state?', units='height', win=Window(...), wrapWidth=1)
+13.9053 	EXP 	Created taller_state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='taller_state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5 , 0.65]), texRes=128.0, units='height', win=Window(...))
+13.9266 	EXP 	Created task_instructions_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.9305 	EXP 	Created stimuli_prompt_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt_4', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.9429 	EXP 	Created okay_country_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='okay_country_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.7]), texRes=128.0, units='height', win=Window(...))
+13.9467 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.9686 	EXP 	Created tall_country_trials = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='south_america/Chile-Country-Outline.jpg', interpolate=True, mask=None, maskParams=None, name='tall_country_trials', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.3]), texRes=128.0, units='height', win=Window(...))
+13.9886 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0031 	EXP 	us_state_response: autoLog = True
+0.0031 	EXP 	us_state_response_2: autoLog = True
+0.0031 	EXP 	us_state_response_3: autoLog = True
+0.0031 	EXP 	country_response: autoLog = True
+0.0031 	EXP 	textbox: autoLog = True
+0.0300 	INFO 	Keyboard events cleared
+0.0296 	EXP 	task_instructions: autoDraw = True
+0.5854 	DATA 	Keypress: space
+0.6011 	INFO 	Keyboard events cleared
+0.6006 	EXP 	task_instructions: autoDraw = False
+0.6006 	EXP 	task_instructions_2: autoDraw = True
+0.9475 	DATA 	Keypress: space
+0.9700 	EXP 	task_instructions_2: autoDraw = False
+1.4656 	EXP 	text_2: autoDraw = True
+1.4656 	EXP 	tall_country_trials: autoDraw = True
+1.4656 	EXP 	textbox: autoDraw = True
+4.7369 	DATA 	Keypress: escape
+5.0166 	EXP 	state_naming_task: status = STOPPED
+5.0397 	EXP 	text_2: autoDraw = False
+5.0397 	EXP 	tall_country_trials: autoDraw = False
+5.0397 	EXP 	textbox: autoDraw = False
+5.0399 	EXP 	state_naming_task: status = STOPPED
+5.0651 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/703394_state_naming_task_2025-04-11_21h36.05.918.csv'
+5.0661 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/703394_state_naming_task_2025-04-11_21h36.05.918.psydat

@@ -1,0 +1,45 @@
+6.2736 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+6.2799 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1920, 1200]. Using actual size
+6.7074 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001868C3BF580>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001868C3BC070>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001868C4A21A0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7075 	EXP 	window1: backgroundImage = ''
+6.7075 	EXP 	window1: backgroundFit = 'none'
+6.7908 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7908 	EXP 	window1: recordFrameIntervals = False
+7.0330 	EXP 	window1: recordFrameIntervals = True
+7.2165 	EXP 	Screen (0) actual frame rate measured at 60.07Hz
+7.2166 	EXP 	window1: recordFrameIntervals = False
+11.2514 	INFO 	keyboard.Keyboard is using iohub backend.
+11.2515 	INFO 	keyboard.Keyboard is using iohub backend.
+11.2515 	INFO 	keyboard.Keyboard is using iohub backend.
+11.2515 	EXP 	state_naming_task: status = STARTED
+11.3636 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.4497 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0015 	DATA 	Mouse: Left button down, pos=(1022,435)
+0.0022 	DATA 	Mouse:  Left button up, pos=(1022,435)
+0.0132 	DATA 	Mouse: Left button down, pos=(344,3)
+0.0137 	DATA 	Mouse:  Left button up, pos=(394,1)
+0.0217 	EXP 	textbox: autoLog = True
+0.0487 	INFO 	Keyboard events cleared
+0.0483 	EXP 	task_instructions: autoDraw = True
+3.5146 	DATA 	Keypress: space
+3.5321 	EXP 	task_instructions: autoDraw = False
+4.0429 	INFO 	Keyboard events cleared
+4.0425 	EXP 	image: autoDraw = True
+4.0425 	EXP 	textbox: autoDraw = True
+27.8849 	DATA 	Keypress: return
+28.4440 	DATA 	Keypress: return
+28.6134 	DATA 	Keypress: return
+28.7599 	DATA 	Keypress: return
+28.8566 	DATA 	Keypress: return
+29.5622 	DATA 	Keypress: backspace
+29.6833 	DATA 	Keypress: backspace
+30.0250 	DATA 	Keypress: backspace
+30.3894 	DATA 	Keypress: backspace
+30.6804 	DATA 	Keypress: backspace
+33.1602 	DATA 	Keypress: escape
+33.3519 	EXP 	state_naming_task: status = STOPPED
+33.3744 	EXP 	image: autoDraw = False
+33.3744 	EXP 	textbox: autoDraw = False
+33.3745 	EXP 	state_naming_task: status = STOPPED
+33.3991 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/031094_state_naming_task_2025-04-11_10h35.23.526.csv'
+33.4002 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/031094_state_naming_task_2025-04-11_10h35.23.526.psydat

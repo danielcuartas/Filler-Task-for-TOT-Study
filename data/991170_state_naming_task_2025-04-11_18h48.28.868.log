@@ -1,0 +1,537 @@
+6.3938 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+6.4001 	WARNING 	User requested fullscreen with size [1536  960], but screen is actually [1920, 1200]. Using actual size
+6.7826 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015C4F4A9ED0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015C4F4A9E70>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000015C4F58D480>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7827 	EXP 	window1: backgroundImage = ''
+6.7827 	EXP 	window1: backgroundFit = 'none'
+6.8562 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.8563 	EXP 	window1: recordFrameIntervals = False
+7.1083 	EXP 	window1: recordFrameIntervals = True
+7.2914 	EXP 	Screen (0) actual frame rate measured at 60.03Hz
+7.2914 	EXP 	window1: recordFrameIntervals = False
+10.5107 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5108 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5108 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5109 	EXP 	state_naming_task: status = STARTED
+10.6176 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.6233 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+10.6286 	EXP 	Created state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='state_pics', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.7, 0.7]), texRes=128.0, units='height', win=Window(...))
+10.6767 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0035 	EXP 	us_state_response: autoLog = True
+0.0306 	INFO 	Keyboard events cleared
+0.0301 	EXP 	task_instructions: autoDraw = True
+0.8052 	EXP 	Imported states/loop_us_state_trials.xlsx as conditions, 50 conditions, 2 params
+0.8059 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'image_file': 'states/Wisconsin-Outline-Map.jpg', 'correct_answer': 'Wisconsin', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.8835 	DATA 	Keypress: space
+0.9454 	EXP 	task_instructions: autoDraw = False
+0.9454 	EXP 	state_pics: ori = 0.0
+0.9454 	EXP 	state_pics: image = 'states/Wisconsin-Outline-Map.jpg'
+1.3040 	EXP 	stimuli_prompt: autoDraw = True
+1.3040 	EXP 	state_pics: autoDraw = True
+1.3040 	EXP 	us_state_response: autoDraw = True
+4.3213 	DATA 	Keypress: lshift
+4.5755 	DATA 	Keypress: d
+4.7608 	DATA 	Keypress: e
+4.8535 	DATA 	Keypress: l
+4.9929 	DATA 	Keypress: a
+5.2017 	DATA 	Keypress: w
+5.3867 	DATA 	Keypress: a
+5.5958 	DATA 	Keypress: r
+5.7121 	DATA 	Keypress: e
+8.3012 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'image_file': 'states/Arizona-Outline-Map.jpg', 'correct_answer': 'Arizona', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+8.3268 	EXP 	stimuli_prompt: autoDraw = False
+8.3268 	EXP 	state_pics: autoDraw = False
+8.3268 	EXP 	us_state_response: autoDraw = False
+8.3268 	EXP 	state_pics: ori = 0.0
+8.3268 	EXP 	state_pics: image = 'states/Arizona-Outline-Map.jpg'
+8.8132 	EXP 	stimuli_prompt: autoDraw = True
+8.8132 	EXP 	state_pics: autoDraw = True
+8.8132 	EXP 	us_state_response: autoDraw = True
+11.7322 	DATA 	Keypress: lshift
+11.8728 	DATA 	Keypress: m
+12.0348 	DATA 	Keypress: i
+12.1750 	DATA 	Keypress: n
+12.5012 	DATA 	Keypress: n
+12.9202 	DATA 	Keypress: e
+13.1315 	DATA 	Keypress: s
+13.2237 	DATA 	Keypress: o
+13.3662 	DATA 	Keypress: t
+13.5272 	DATA 	Keypress: a
+15.8097 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'image_file': 'states/Hawaii-Outline-Map.jpg', 'correct_answer': 'Hawaii', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+15.8748 	EXP 	stimuli_prompt: autoDraw = False
+15.8748 	EXP 	state_pics: autoDraw = False
+15.8748 	EXP 	us_state_response: autoDraw = False
+15.8748 	EXP 	state_pics: ori = 0.0
+15.8748 	EXP 	state_pics: image = 'states/Hawaii-Outline-Map.jpg'
+16.3077 	EXP 	stimuli_prompt: autoDraw = True
+16.3077 	EXP 	state_pics: autoDraw = True
+16.3077 	EXP 	us_state_response: autoDraw = True
+17.8484 	DATA 	Keypress: lshift
+18.0353 	DATA 	Keypress: h
+18.1958 	DATA 	Keypress: a
+18.3814 	DATA 	Keypress: w
+18.5675 	DATA 	Keypress: a
+18.7991 	DATA 	Keypress: i
+18.9160 	DATA 	Keypress: i
+23.3005 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'image_file': 'states/Iowa-Outline-Map.jpg', 'correct_answer': 'Iowa', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+23.4037 	EXP 	stimuli_prompt: autoDraw = False
+23.4037 	EXP 	state_pics: autoDraw = False
+23.4037 	EXP 	us_state_response: autoDraw = False
+23.4037 	EXP 	state_pics: ori = 0.0
+23.4037 	EXP 	state_pics: image = 'states/Iowa-Outline-Map.jpg'
+23.8121 	EXP 	stimuli_prompt: autoDraw = True
+23.8121 	EXP 	state_pics: autoDraw = True
+23.8121 	EXP 	us_state_response: autoDraw = True
+26.2210 	DATA 	Keypress: lshift
+26.7729 	DATA 	Keypress: lshift
+27.1221 	DATA 	Keypress: u
+27.2351 	DATA 	Keypress: lshift
+27.6039 	DATA 	Keypress: backspace
+27.9504 	DATA 	Keypress: lshift
+28.5934 	DATA 	Keypress: u
+28.7526 	DATA 	Keypress: u
+28.8898 	DATA 	Keypress: u
+29.0993 	DATA 	Keypress: u
+29.2834 	DATA 	Keypress: g
+29.3987 	DATA 	Keypress: h
+30.8026 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'image_file': 'states/Connecticut-Outline-Map.jpg', 'correct_answer': 'Connecticut', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+30.8950 	EXP 	stimuli_prompt: autoDraw = False
+30.8950 	EXP 	state_pics: autoDraw = False
+30.8950 	EXP 	us_state_response: autoDraw = False
+30.8950 	EXP 	state_pics: ori = 0.0
+30.8950 	EXP 	state_pics: image = 'states/Connecticut-Outline-Map.jpg'
+31.3001 	EXP 	stimuli_prompt: autoDraw = True
+31.3001 	EXP 	state_pics: autoDraw = True
+31.3001 	EXP 	us_state_response: autoDraw = True
+33.1703 	DATA 	Keypress: lshift
+33.3534 	DATA 	Keypress: w
+33.6490 	DATA 	Keypress: t
+33.8562 	DATA 	Keypress: f
+38.2903 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'image_file': 'states/Mississippi-Outline-Map.jpg', 'correct_answer': 'Mississippi', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+38.3651 	EXP 	stimuli_prompt: autoDraw = False
+38.3651 	EXP 	state_pics: autoDraw = False
+38.3651 	EXP 	us_state_response: autoDraw = False
+38.3651 	EXP 	stimuli_prompt: autoDraw = False
+38.3651 	EXP 	state_pics: autoDraw = False
+38.3651 	EXP 	us_state_response: autoDraw = False
+38.3651 	EXP 	state_pics: ori = 0.0
+38.3651 	EXP 	state_pics: image = 'states/Mississippi-Outline-Map.jpg'
+38.8143 	EXP 	stimuli_prompt: autoDraw = True
+38.8143 	EXP 	state_pics: autoDraw = True
+38.8143 	EXP 	us_state_response: autoDraw = True
+41.2884 	DATA 	Keypress: lshift
+41.5381 	DATA 	Keypress: n
+41.7185 	DATA 	Keypress: o
+41.8111 	DATA 	Keypress: s
+42.0156 	DATA 	Keypress: e
+45.7937 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'image_file': 'states/Florida-Outline-Map.jpg', 'correct_answer': 'Florida', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+45.8885 	EXP 	stimuli_prompt: autoDraw = False
+45.8885 	EXP 	state_pics: autoDraw = False
+45.8885 	EXP 	us_state_response: autoDraw = False
+45.8885 	EXP 	state_pics: ori = 0.0
+45.8885 	EXP 	state_pics: image = 'states/Florida-Outline-Map.jpg'
+46.3118 	EXP 	stimuli_prompt: autoDraw = True
+46.3118 	EXP 	state_pics: autoDraw = True
+46.3118 	EXP 	us_state_response: autoDraw = True
+47.3192 	DATA 	Keypress: lshift
+47.6139 	DATA 	Keypress: f
+47.8175 	DATA 	Keypress: l
+47.9993 	DATA 	Keypress: o
+48.0686 	DATA 	Keypress: r
+48.2043 	DATA 	Keypress: i
+48.2735 	DATA 	Keypress: d
+48.3651 	DATA 	Keypress: a
+53.2951 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'image_file': 'states/Utah-Outline-Map.jpg', 'correct_answer': 'Utah', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+53.4048 	EXP 	stimuli_prompt: autoDraw = False
+53.4048 	EXP 	state_pics: autoDraw = False
+53.4048 	EXP 	us_state_response: autoDraw = False
+53.4048 	EXP 	state_pics: ori = 0.0
+53.4048 	EXP 	state_pics: image = 'states/Utah-Outline-Map.jpg'
+53.8045 	EXP 	stimuli_prompt: autoDraw = True
+53.8045 	EXP 	state_pics: autoDraw = True
+53.8045 	EXP 	us_state_response: autoDraw = True
+55.9407 	DATA 	Keypress: lshift
+56.8683 	DATA 	Keypress: o
+57.1855 	DATA 	Keypress: k
+57.7509 	DATA 	Keypress: l
+57.9317 	DATA 	Keypress: a
+58.1349 	DATA 	Keypress: h
+58.2925 	DATA 	Keypress: o
+58.4512 	DATA 	Keypress: m
+58.5866 	DATA 	Keypress: a
+58.8806 	DATA 	Keypress: backspace
+59.9923 	DATA 	Keypress: lshift
+60.3804 	DATA 	Keypress: b
+60.5806 	DATA 	Keypress: o
+60.6704 	DATA 	Keypress: x
+60.8054 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'image_file': 'states/South-Carolina-Outline-Map.jpg', 'correct_answer': 'South Carolina', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+60.9407 	EXP 	stimuli_prompt: autoDraw = False
+60.9407 	EXP 	state_pics: autoDraw = False
+60.9407 	EXP 	us_state_response: autoDraw = False
+60.9407 	EXP 	state_pics: ori = 0.0
+60.9407 	EXP 	state_pics: image = 'states/South-Carolina-Outline-Map.jpg'
+61.3178 	EXP 	stimuli_prompt: autoDraw = True
+61.3178 	EXP 	state_pics: autoDraw = True
+61.3178 	EXP 	us_state_response: autoDraw = True
+65.4755 	DATA 	Keypress: lshift
+67.0569 	DATA 	Keypress: v
+67.3257 	DATA 	Keypress: e
+67.3936 	DATA 	Keypress: r
+67.4608 	DATA 	Keypress: m
+67.6643 	DATA 	Keypress: o
+67.7318 	DATA 	Keypress: n
+67.8236 	DATA 	Keypress: t
+68.3155 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'image_file': 'states/Maryland-Outline-Map.jpg', 'correct_answer': 'Maryland', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+68.3958 	EXP 	stimuli_prompt: autoDraw = False
+68.3958 	EXP 	state_pics: autoDraw = False
+68.3958 	EXP 	us_state_response: autoDraw = False
+68.3958 	EXP 	state_pics: ori = 0.0
+68.3958 	EXP 	state_pics: image = 'states/Maryland-Outline-Map.jpg'
+68.8154 	EXP 	stimuli_prompt: autoDraw = True
+68.8154 	EXP 	state_pics: autoDraw = True
+68.8154 	EXP 	us_state_response: autoDraw = True
+71.7177 	DATA 	Keypress: lshift
+72.2117 	DATA 	Keypress: u
+72.3895 	DATA 	Keypress: t
+72.5465 	DATA 	Keypress: a
+72.6581 	DATA 	Keypress: h
+73.4216 	DATA 	Keypress: backspace
+74.4538 	DATA 	Keypress: lshift
+74.7003 	DATA 	Keypress: s
+74.9219 	DATA 	Keypress: l
+75.7948 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'image_file': 'states/Missouri-Outline-Map.jpg', 'correct_answer': 'Missouri', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+75.8771 	EXP 	stimuli_prompt: autoDraw = False
+75.8771 	EXP 	state_pics: autoDraw = False
+75.8771 	EXP 	us_state_response: autoDraw = False
+75.8771 	EXP 	state_pics: ori = 0.0
+75.8771 	EXP 	state_pics: image = 'states/Missouri-Outline-Map.jpg'
+76.3163 	EXP 	stimuli_prompt: autoDraw = True
+76.3163 	EXP 	state_pics: autoDraw = True
+76.3163 	EXP 	us_state_response: autoDraw = True
+77.2610 	DATA 	Keypress: lshift
+77.5762 	DATA 	Keypress: i
+77.7734 	DATA 	Keypress: l
+77.9298 	DATA 	Keypress: l
+78.1322 	DATA 	Keypress: i
+79.0457 	DATA 	Keypress: n
+79.2456 	DATA 	Keypress: o
+79.3122 	DATA 	Keypress: i
+79.6687 	DATA 	Keypress: s
+83.3031 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'image_file': 'states/Oregon-Outline-Map.jpg', 'correct_answer': 'Oregon', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+83.4800 	EXP 	stimuli_prompt: autoDraw = False
+83.4800 	EXP 	state_pics: autoDraw = False
+83.4800 	EXP 	us_state_response: autoDraw = False
+83.4800 	EXP 	state_pics: ori = 0.0
+83.4800 	EXP 	state_pics: image = 'states/Oregon-Outline-Map.jpg'
+83.8051 	EXP 	stimuli_prompt: autoDraw = True
+83.8051 	EXP 	state_pics: autoDraw = True
+83.8051 	EXP 	us_state_response: autoDraw = True
+88.4412 	DATA 	Keypress: lshift
+88.7068 	DATA 	Keypress: r
+88.9501 	DATA 	Keypress: o
+89.0170 	DATA 	Keypress: c
+89.1288 	DATA 	Keypress: k
+90.7913 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'image_file': 'states/Virginia-Outline-Map.jpg', 'correct_answer': 'Virginia', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+90.8605 	EXP 	stimuli_prompt: autoDraw = False
+90.8605 	EXP 	state_pics: autoDraw = False
+90.8605 	EXP 	us_state_response: autoDraw = False
+90.8605 	EXP 	stimuli_prompt: autoDraw = False
+90.8605 	EXP 	state_pics: autoDraw = False
+90.8605 	EXP 	us_state_response: autoDraw = False
+90.8605 	EXP 	state_pics: ori = 0.0
+90.8605 	EXP 	state_pics: image = 'states/Virginia-Outline-Map.jpg'
+91.3183 	EXP 	stimuli_prompt: autoDraw = True
+91.3183 	EXP 	state_pics: autoDraw = True
+91.3183 	EXP 	us_state_response: autoDraw = True
+93.1445 	DATA 	Keypress: lshift
+94.0990 	DATA 	Keypress: v
+94.3196 	DATA 	Keypress: i
+94.4090 	DATA 	Keypress: r
+94.5857 	DATA 	Keypress: g
+94.7187 	DATA 	Keypress: i
+94.9182 	DATA 	Keypress: n
+95.0516 	DATA 	Keypress: i
+95.1184 	DATA 	Keypress: a
+98.3109 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'image_file': 'states/Kansas-Outline-Map.jpg', 'correct_answer': 'Kansas', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+98.3781 	EXP 	stimuli_prompt: autoDraw = False
+98.3781 	EXP 	state_pics: autoDraw = False
+98.3781 	EXP 	us_state_response: autoDraw = False
+98.3781 	EXP 	state_pics: ori = 0.0
+98.3781 	EXP 	state_pics: image = 'states/Kansas-Outline-Map.jpg'
+98.8127 	EXP 	stimuli_prompt: autoDraw = True
+98.8127 	EXP 	state_pics: autoDraw = True
+98.8127 	EXP 	us_state_response: autoDraw = True
+100.1038 	DATA 	Keypress: lshift
+100.3243 	DATA 	Keypress: b
+100.8764 	DATA 	Keypress: backspace
+101.1234 	DATA 	Keypress: lshift
+101.4970 	DATA 	Keypress: w
+101.7839 	DATA 	Keypress: y
+102.0724 	DATA 	Keypress: o
+102.3601 	DATA 	Keypress: m
+102.5355 	DATA 	Keypress: i
+102.6258 	DATA 	Keypress: n
+102.7134 	DATA 	Keypress: g
+105.8089 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'image_file': 'states/West-Virginia-Outline-Map.jpg', 'correct_answer': 'West Virginia', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+105.9318 	EXP 	stimuli_prompt: autoDraw = False
+105.9318 	EXP 	state_pics: autoDraw = False
+105.9318 	EXP 	us_state_response: autoDraw = False
+105.9318 	EXP 	state_pics: ori = 0.0
+105.9318 	EXP 	state_pics: image = 'states/West-Virginia-Outline-Map.jpg'
+106.2990 	EXP 	stimuli_prompt: autoDraw = True
+106.2990 	EXP 	state_pics: autoDraw = True
+106.2990 	EXP 	us_state_response: autoDraw = True
+107.3636 	DATA 	Keypress: lshift
+107.6722 	DATA 	Keypress: w
+107.9356 	DATA 	Keypress: e
+108.1108 	DATA 	Keypress: s
+108.3315 	DATA 	Keypress: t
+108.8581 	DATA 	Keypress: lshift
+108.9908 	DATA 	Keypress: space
+109.2767 	DATA 	Keypress: v
+109.5404 	DATA 	Keypress: i
+109.8704 	DATA 	Keypress: r
+110.2657 	DATA 	Keypress: g
+110.4197 	DATA 	Keypress: i
+110.5959 	DATA 	Keypress: n
+110.7263 	DATA 	Keypress: i
+110.8357 	DATA 	Keypress: a
+113.2985 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'image_file': 'states/Montana-Outline-Map.jpg', 'correct_answer': 'Montana', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+113.3915 	EXP 	stimuli_prompt: autoDraw = False
+113.3915 	EXP 	state_pics: autoDraw = False
+113.3915 	EXP 	us_state_response: autoDraw = False
+113.3915 	EXP 	state_pics: ori = 0.0
+113.3915 	EXP 	state_pics: image = 'states/Montana-Outline-Map.jpg'
+113.7995 	EXP 	stimuli_prompt: autoDraw = True
+113.7995 	EXP 	state_pics: autoDraw = True
+113.7995 	EXP 	us_state_response: autoDraw = True
+117.8897 	DATA 	Keypress: lshift
+118.1111 	DATA 	Keypress: a
+118.3071 	DATA 	Keypress: r
+118.3944 	DATA 	Keypress: i
+118.5478 	DATA 	Keypress: z
+118.6790 	DATA 	Keypress: o
+118.7456 	DATA 	Keypress: n
+118.8117 	DATA 	Keypress: a
+120.7866 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'image_file': 'states/Pennsylvania-Outline-Map.jpg', 'correct_answer': 'Pennsylvania', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+120.8381 	EXP 	stimuli_prompt: autoDraw = False
+120.8381 	EXP 	state_pics: autoDraw = False
+120.8381 	EXP 	us_state_response: autoDraw = False
+120.8381 	EXP 	stimuli_prompt: autoDraw = False
+120.8381 	EXP 	state_pics: autoDraw = False
+120.8381 	EXP 	us_state_response: autoDraw = False
+120.8381 	EXP 	state_pics: ori = 0.0
+120.8381 	EXP 	state_pics: image = 'states/Pennsylvania-Outline-Map.jpg'
+121.3124 	EXP 	stimuli_prompt: autoDraw = True
+121.3124 	EXP 	state_pics: autoDraw = True
+121.3124 	EXP 	us_state_response: autoDraw = True
+123.1980 	DATA 	Keypress: lshift
+123.3945 	DATA 	Keypress: w
+123.6321 	DATA 	Keypress: a
+123.7847 	DATA 	Keypress: s
+123.8942 	DATA 	Keypress: h
+124.0245 	DATA 	Keypress: i
+124.1113 	DATA 	Keypress: n
+124.1995 	DATA 	Keypress: g
+124.3732 	DATA 	Keypress: t
+124.4184 	DATA 	Keypress: o
+124.5048 	DATA 	Keypress: n
+128.3153 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'image_file': 'states/North-Carolina-Outline-Map.jpg', 'correct_answer': 'North Carolina', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+128.3690 	EXP 	stimuli_prompt: autoDraw = False
+128.3690 	EXP 	state_pics: autoDraw = False
+128.3690 	EXP 	us_state_response: autoDraw = False
+128.3690 	EXP 	state_pics: ori = 0.0
+128.3690 	EXP 	state_pics: image = 'states/North-Carolina-Outline-Map.jpg'
+128.8176 	EXP 	stimuli_prompt: autoDraw = True
+128.8176 	EXP 	state_pics: autoDraw = True
+128.8176 	EXP 	us_state_response: autoDraw = True
+131.8789 	DATA 	Keypress: lshift
+132.0754 	DATA 	Keypress: m
+132.2673 	DATA 	Keypress: a
+132.4414 	DATA 	Keypress: s
+132.5914 	DATA 	Keypress: s
+132.7853 	DATA 	Keypress: a
+133.1106 	DATA 	Keypress: c
+133.2195 	DATA 	Keypress: h
+133.3272 	DATA 	Keypress: u
+133.4566 	DATA 	Keypress: s
+133.6118 	DATA 	Keypress: s
+133.7821 	DATA 	Keypress: e
+133.9757 	DATA 	Keypress: t
+134.1712 	DATA 	Keypress: t
+134.3449 	DATA 	Keypress: e
+134.5399 	DATA 	Keypress: s
+135.8137 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'image_file': 'states/South-Dakota-Outline-Map.jpg', 'correct_answer': 'South Dakota', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+135.8887 	EXP 	stimuli_prompt: autoDraw = False
+135.8887 	EXP 	state_pics: autoDraw = False
+135.8887 	EXP 	us_state_response: autoDraw = False
+135.8887 	EXP 	state_pics: ori = 0.0
+135.8887 	EXP 	state_pics: image = 'states/South-Dakota-Outline-Map.jpg'
+136.3128 	EXP 	stimuli_prompt: autoDraw = True
+136.3128 	EXP 	state_pics: autoDraw = True
+136.3128 	EXP 	us_state_response: autoDraw = True
+138.9670 	DATA 	Keypress: lshift
+139.9324 	DATA 	Keypress: o
+140.1469 	DATA 	Keypress: r
+140.2550 	DATA 	Keypress: e
+140.4259 	DATA 	Keypress: g
+140.5330 	DATA 	Keypress: o
+140.5962 	DATA 	Keypress: n
+143.3027 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'image_file': 'states/Nevada-Outline-Map.jpg', 'correct_answer': 'Nevada', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+143.3870 	EXP 	stimuli_prompt: autoDraw = False
+143.3870 	EXP 	state_pics: autoDraw = False
+143.3870 	EXP 	us_state_response: autoDraw = False
+143.3870 	EXP 	state_pics: ori = 0.0
+143.3870 	EXP 	state_pics: image = 'states/Nevada-Outline-Map.jpg'
+143.8081 	EXP 	stimuli_prompt: autoDraw = True
+143.8081 	EXP 	state_pics: autoDraw = True
+143.8081 	EXP 	us_state_response: autoDraw = True
+146.0428 	DATA 	Keypress: lshift
+146.2558 	DATA 	Keypress: n
+146.4708 	DATA 	Keypress: e
+146.6631 	DATA 	Keypress: v
+146.7918 	DATA 	Keypress: a
+146.9183 	DATA 	Keypress: d
+147.0033 	DATA 	Keypress: a
+150.7944 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'image_file': 'states/Ohio-Outline-Map.jpg', 'correct_answer': 'Ohio', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+151.0014 	EXP 	stimuli_prompt: autoDraw = False
+151.0014 	EXP 	state_pics: autoDraw = False
+151.0014 	EXP 	us_state_response: autoDraw = False
+151.0014 	EXP 	state_pics: ori = 0.0
+151.0014 	EXP 	state_pics: image = 'states/Ohio-Outline-Map.jpg'
+151.3149 	EXP 	stimuli_prompt: autoDraw = True
+151.3149 	EXP 	state_pics: autoDraw = True
+151.3149 	EXP 	us_state_response: autoDraw = True
+153.3151 	DATA 	Keypress: lshift
+153.4877 	DATA 	Keypress: lshift
+153.6180 	DATA 	Keypress: w
+153.8515 	DATA 	Keypress: h
+153.8950 	DATA 	Keypress: a
+154.0683 	DATA 	Keypress: t
+158.2956 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'image_file': 'states/Maine-Outline-Map.jpg', 'correct_answer': 'Maine', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+158.3846 	EXP 	stimuli_prompt: autoDraw = False
+158.3846 	EXP 	state_pics: autoDraw = False
+158.3846 	EXP 	us_state_response: autoDraw = False
+158.3846 	EXP 	state_pics: ori = 0.0
+158.3846 	EXP 	state_pics: image = 'states/Maine-Outline-Map.jpg'
+158.8064 	EXP 	stimuli_prompt: autoDraw = True
+158.8064 	EXP 	state_pics: autoDraw = True
+158.8064 	EXP 	us_state_response: autoDraw = True
+160.5493 	DATA 	Keypress: lshift
+162.7583 	DATA 	Keypress: m
+162.9319 	DATA 	Keypress: a
+163.0177 	DATA 	Keypress: i
+163.0611 	DATA 	Keypress: n
+163.1456 	DATA 	Keypress: e
+165.8013 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'image_file': 'states/Alabama-Outline-Map.jpg', 'correct_answer': 'Alabama', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+165.8711 	EXP 	stimuli_prompt: autoDraw = False
+165.8711 	EXP 	state_pics: autoDraw = False
+165.8711 	EXP 	us_state_response: autoDraw = False
+165.8711 	EXP 	state_pics: ori = 0.0
+165.8711 	EXP 	state_pics: image = 'states/Alabama-Outline-Map.jpg'
+166.3129 	EXP 	stimuli_prompt: autoDraw = True
+166.3129 	EXP 	state_pics: autoDraw = True
+166.3129 	EXP 	us_state_response: autoDraw = True
+168.4731 	DATA 	Keypress: lshift
+168.6420 	DATA 	Keypress: u
+168.7683 	DATA 	Keypress: t
+168.8977 	DATA 	Keypress: a
+169.0028 	DATA 	Keypress: h
+173.2966 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'image_file': 'states/California-Outline-Map.jpg', 'correct_answer': 'California', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+173.4922 	EXP 	stimuli_prompt: autoDraw = False
+173.4922 	EXP 	state_pics: autoDraw = False
+173.4922 	EXP 	us_state_response: autoDraw = False
+173.4922 	EXP 	state_pics: ori = 0.0
+173.4922 	EXP 	state_pics: image = 'states/California-Outline-Map.jpg'
+173.8039 	EXP 	stimuli_prompt: autoDraw = True
+173.8039 	EXP 	state_pics: autoDraw = True
+173.8039 	EXP 	us_state_response: autoDraw = True
+174.9573 	DATA 	Keypress: lshift
+175.2572 	DATA 	Keypress: c
+175.4460 	DATA 	Keypress: a
+175.5512 	DATA 	Keypress: l
+175.6798 	DATA 	Keypress: i
+175.8483 	DATA 	Keypress: f
+175.9559 	DATA 	Keypress: o
+176.0638 	DATA 	Keypress: r
+176.2109 	DATA 	Keypress: n
+176.2928 	DATA 	Keypress: i
+176.3593 	DATA 	Keypress: a
+180.7929 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'image_file': 'states/North-Dakota-Outline-Map.jpg', 'correct_answer': 'North Dakota', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+180.8577 	EXP 	stimuli_prompt: autoDraw = False
+180.8577 	EXP 	state_pics: autoDraw = False
+180.8577 	EXP 	us_state_response: autoDraw = False
+180.8577 	EXP 	stimuli_prompt: autoDraw = False
+180.8577 	EXP 	state_pics: autoDraw = False
+180.8577 	EXP 	us_state_response: autoDraw = False
+180.8577 	EXP 	state_pics: ori = 0.0
+180.8577 	EXP 	state_pics: image = 'states/North-Dakota-Outline-Map.jpg'
+181.3167 	EXP 	stimuli_prompt: autoDraw = True
+181.3167 	EXP 	state_pics: autoDraw = True
+181.3167 	EXP 	us_state_response: autoDraw = True
+184.2890 	DATA 	Keypress: lshift
+186.3437 	DATA 	Keypress: c
+186.5969 	DATA 	Keypress: o
+186.7875 	DATA 	Keypress: l
+186.9573 	DATA 	Keypress: o
+187.0206 	DATA 	Keypress: r
+187.1485 	DATA 	Keypress: a
+187.2741 	DATA 	Keypress: d
+187.3817 	DATA 	Keypress: o
+188.3101 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'image_file': 'states/New-Mexico-Outline-Map.jpg', 'correct_answer': 'New Mexico', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+188.4360 	EXP 	stimuli_prompt: autoDraw = False
+188.4360 	EXP 	state_pics: autoDraw = False
+188.4360 	EXP 	us_state_response: autoDraw = False
+188.4360 	EXP 	state_pics: ori = 0.0
+188.4360 	EXP 	state_pics: image = 'states/New-Mexico-Outline-Map.jpg'
+188.8095 	EXP 	stimuli_prompt: autoDraw = True
+188.8095 	EXP 	state_pics: autoDraw = True
+188.8095 	EXP 	us_state_response: autoDraw = True
+189.8301 	DATA 	Keypress: lshift
+190.9095 	DATA 	Keypress: o
+191.0959 	DATA 	Keypress: k
+191.2653 	DATA 	Keypress: l
+191.3717 	DATA 	Keypress: a
+191.8360 	DATA 	Keypress: n
+192.3434 	DATA 	Keypress: backspace
+193.2506 	DATA 	Keypress: h
+193.3981 	DATA 	Keypress: o
+193.5665 	DATA 	Keypress: m
+193.6938 	DATA 	Keypress: a
+195.8026 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'image_file': 'states/Nebraska-Outline-Map.jpg', 'correct_answer': 'Nebraska', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+195.8644 	EXP 	stimuli_prompt: autoDraw = False
+195.8644 	EXP 	state_pics: autoDraw = False
+195.8644 	EXP 	us_state_response: autoDraw = False
+195.8644 	EXP 	state_pics: ori = 0.0
+195.8644 	EXP 	state_pics: image = 'states/Nebraska-Outline-Map.jpg'
+196.2993 	EXP 	stimuli_prompt: autoDraw = True
+196.2993 	EXP 	state_pics: autoDraw = True
+196.2993 	EXP 	us_state_response: autoDraw = True
+197.3621 	DATA 	Keypress: lshift
+197.5294 	DATA 	Keypress: n
+197.6752 	DATA 	Keypress: e
+197.8013 	DATA 	Keypress: b
+197.8646 	DATA 	Keypress: r
+198.0117 	DATA 	Keypress: a
+198.2230 	DATA 	Keypress: s
+198.4122 	DATA 	Keypress: k
+198.5386 	DATA 	Keypress: a
+203.2904 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'image_file': 'states/Illinois-Outline-Map.jpg', 'correct_answer': 'Illinois', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+203.3487 	EXP 	stimuli_prompt: autoDraw = False
+203.3487 	EXP 	state_pics: autoDraw = False
+203.3487 	EXP 	us_state_response: autoDraw = False
+203.3487 	EXP 	stimuli_prompt: autoDraw = False
+203.3487 	EXP 	state_pics: autoDraw = False
+203.3487 	EXP 	us_state_response: autoDraw = False
+203.3487 	EXP 	state_pics: ori = 0.0
+203.3487 	EXP 	state_pics: image = 'states/Illinois-Outline-Map.jpg'
+203.8029 	EXP 	stimuli_prompt: autoDraw = True
+203.8029 	EXP 	state_pics: autoDraw = True
+203.8029 	EXP 	us_state_response: autoDraw = True
+207.9792 	DATA 	Keypress: escape
+208.2900 	EXP 	state_naming_task: status = STOPPED
+208.3093 	EXP 	stimuli_prompt: autoDraw = False
+208.3093 	EXP 	state_pics: autoDraw = False
+208.3093 	EXP 	us_state_response: autoDraw = False
+208.3094 	EXP 	state_naming_task: status = STOPPED
+208.3414 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/991170_state_naming_task_2025-04-11_18h48.28.868.csv'
+208.3429 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/991170_state_naming_task_2025-04-11_18h48.28.868.psydat

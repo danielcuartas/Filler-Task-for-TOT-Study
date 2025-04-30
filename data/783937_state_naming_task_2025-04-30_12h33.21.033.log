@@ -1,0 +1,186 @@
+10.2209 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+10.2222 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+10.7660 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002440143F5E0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002440143C070>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024401506170>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.7661 	EXP 	window1: backgroundImage = ''
+10.7661 	EXP 	window1: backgroundFit = 'none'
+10.7900 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7975 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8008 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8032 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8043 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8052 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8056 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8065 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8073 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8083 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8096 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8113 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8129 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8136 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8157 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8163 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8178 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.8198 	DEBUG 	Upload of Texture Font fontname complete
+10.8347 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8368 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8380 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8383 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.8395 	DEBUG 	Upload of Texture Font fontname complete
+10.8431 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.8431 	EXP 	window1: recordFrameIntervals = False
+11.0636 	EXP 	window1: recordFrameIntervals = True
+11.2461 	EXP 	Screen (0) actual frame rate measured at 60.42Hz
+11.2461 	EXP 	window1: recordFrameIntervals = False
+11.2532 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2555 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2582 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2599 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2609 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2624 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2637 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2652 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2676 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2680 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.2695 	DEBUG 	Upload of Texture Font fontname complete
+11.2912 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.2630 	INFO 	keyboard.Keyboard is using iohub backend.
+15.2631 	INFO 	keyboard.Keyboard is using iohub backend.
+15.2631 	INFO 	keyboard.Keyboard is using iohub backend.
+15.2632 	EXP 	state_naming_task: status = STARTED
+15.8279 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.8332 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+15.8424 	EXP 	Created okay_state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=True, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='okay_state_pics', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.6, 0.5]), texRes=128.0, units='height', win=Window(...))
+15.8566 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8604 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8620 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8645 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8662 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8677 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8688 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.8691 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.8705 	DEBUG 	Upload of Texture Font fontname complete
+15.8766 	EXP 	Created stimuli_prompt_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt_2', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. state?', units='height', win=Window(...), wrapWidth=1)
+15.8816 	EXP 	Created wider_state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='wider_state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.95, 0.5 ]), texRes=128.0, units='height', win=Window(...))
+15.8959 	EXP 	Created stimuli_prompt_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt_3', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. state?', units='height', win=Window(...), wrapWidth=1)
+15.9014 	EXP 	Created taller_state_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='taller_state_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5 , 0.65]), texRes=128.0, units='height', win=Window(...))
+15.9233 	EXP 	Created task_instructions_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.9274 	EXP 	Created stimuli_prompt_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt_4', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.9454 	EXP 	Created okay_country_pics = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='okay_country_pics', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5 , 0.65]), texRes=128.0, units='height', win=Window(...))
+15.9489 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.9933 	EXP 	Created tall_country_trials = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='south_america/Chile-Country-Outline.jpg', interpolate=True, mask=None, maskParams=None, name='tall_country_trials', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.22, 0.6 ]), texRes=128.0, units='height', win=Window(...))
+16.0126 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0157 	EXP 	us_state_response: autoLog = True
+0.0157 	EXP 	us_state_response_2: autoLog = True
+0.0157 	EXP 	us_state_response_3: autoLog = True
+0.0157 	EXP 	country_response: autoLog = True
+0.0157 	EXP 	textbox: autoLog = True
+0.0497 	INFO 	Keyboard events cleared
+0.0493 	EXP 	task_instructions: autoDraw = True
+6.9378 	DEBUG 	Read excel file with openpyxl: states/loop_okay_states_trials.xlsx
+6.9390 	EXP 	Imported states/loop_okay_states_trials.xlsx as conditions, 35 conditions, 2 params
+6.9418 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'image_file': 'states/Louisiana-Outline-Map.jpg', 'correct_answer': 'Louisiana', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+7.1226 	DATA 	Keypress: space
+7.3556 	EXP 	task_instructions: autoDraw = False
+7.3556 	EXP 	okay_state_pics: ori = 0.0
+7.3556 	EXP 	okay_state_pics: image = 'states/Louisiana-Outline-Map.jpg'
+7.3972 	EXP 	stimuli_prompt: autoDraw = True
+7.3972 	EXP 	okay_state_pics: autoDraw = True
+7.3972 	EXP 	us_state_response: autoDraw = True
+11.2258 	DATA 	Keypress: lshift
+11.4938 	DATA 	Keypress: l
+11.4970 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4977 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.4985 	DEBUG 	Upload of Texture Font fontname complete
+11.6613 	DATA 	Keypress: o
+11.6648 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.6653 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.6661 	DEBUG 	Upload of Texture Font fontname complete
+11.8262 	DATA 	Keypress: u
+11.8287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8291 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.8297 	DEBUG 	Upload of Texture Font fontname complete
+11.9119 	DATA 	Keypress: i
+11.9142 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9146 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.9152 	DEBUG 	Upload of Texture Font fontname complete
+12.0592 	DATA 	Keypress: s
+12.0619 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0623 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.0629 	DEBUG 	Upload of Texture Font fontname complete
+12.1930 	DATA 	Keypress: i
+12.3255 	DATA 	Keypress: n
+12.3297 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3301 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.3308 	DEBUG 	Upload of Texture Font fontname complete
+12.3320 	DATA 	Keypress: a
+12.3349 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3358 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.3364 	DEBUG 	Upload of Texture Font fontname complete
+12.5237 	DATA 	Keypress: a
+12.5738 	DATA 	Keypress: n
+12.7070 	DATA 	Keypress: a
+13.6073 	DATA 	Keypress: return
+14.3757 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'image_file': 'states/Delaware-Outline-Map.jpg', 'correct_answer': 'Delaware', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+14.5548 	EXP 	stimuli_prompt: autoDraw = False
+14.5548 	EXP 	okay_state_pics: autoDraw = False
+14.5548 	EXP 	us_state_response: autoDraw = False
+14.5548 	EXP 	okay_state_pics: ori = 0.0
+14.5548 	EXP 	okay_state_pics: image = 'states/Delaware-Outline-Map.jpg'
+14.8860 	EXP 	stimuli_prompt: autoDraw = True
+14.8860 	EXP 	okay_state_pics: autoDraw = True
+14.8860 	EXP 	us_state_response: autoDraw = True
+18.1421 	DATA 	Keypress: lshift
+18.3422 	DATA 	Keypress: u
+18.3454 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.3459 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.3466 	DEBUG 	Upload of Texture Font fontname complete
+18.4772 	DATA 	Keypress: t
+18.4795 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.4799 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.4805 	DEBUG 	Upload of Texture Font fontname complete
+18.5965 	DATA 	Keypress: a
+18.6909 	DATA 	Keypress: h
+21.8756 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'image_file': 'states/Kansas-Outline-Map.jpg', 'correct_answer': 'Kansas', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+22.0260 	EXP 	stimuli_prompt: autoDraw = False
+22.0260 	EXP 	okay_state_pics: autoDraw = False
+22.0260 	EXP 	us_state_response: autoDraw = False
+22.0260 	EXP 	okay_state_pics: ori = 0.0
+22.0260 	EXP 	okay_state_pics: image = 'states/Kansas-Outline-Map.jpg'
+22.3860 	EXP 	stimuli_prompt: autoDraw = True
+22.3860 	EXP 	okay_state_pics: autoDraw = True
+22.3860 	EXP 	us_state_response: autoDraw = True
+24.1927 	DATA 	Keypress: lshift
+24.3774 	DATA 	Keypress: w
+24.3806 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+24.3811 	DEBUG 	Uploading Texture Font fontname to graphics card
+24.3817 	DEBUG 	Upload of Texture Font fontname complete
+24.5782 	DATA 	Keypress: a
+24.7771 	DATA 	Keypress: s
+24.8618 	DATA 	Keypress: h
+24.9288 	DATA 	Keypress: i
+25.0432 	DATA 	Keypress: n
+25.1088 	DATA 	Keypress: g
+25.1116 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.1120 	DEBUG 	Uploading Texture Font fontname to graphics card
+25.1126 	DEBUG 	Upload of Texture Font fontname complete
+25.2584 	DATA 	Keypress: t
+25.2916 	DATA 	Keypress: o
+25.3762 	DATA 	Keypress: n
+27.7087 	DATA 	Keypress: escape
+27.9249 	EXP 	state_naming_task: status = STOPPED
+27.9390 	EXP 	stimuli_prompt: autoDraw = False
+27.9390 	EXP 	okay_state_pics: autoDraw = False
+27.9390 	EXP 	us_state_response: autoDraw = False
+27.9419 	EXP 	state_naming_task: status = STOPPED
+27.9692 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/783937_state_naming_task_2025-04-30_12h33.21.033.csv'
+27.9715 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/783937_state_naming_task_2025-04-30_12h33.21.033.psydat
+28.5520 	DEBUG 	Saving data for state_naming_task ExperimentHandler

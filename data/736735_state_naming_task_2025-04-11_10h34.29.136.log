@@ -1,0 +1,45 @@
+11.1368 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+11.1561 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1920, 1200]. Using actual size
+11.5511 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000016590215D50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000016590214670>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001659D0420B0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.5512 	EXP 	window1: backgroundImage = ''
+11.5512 	EXP 	window1: backgroundFit = 'none'
+11.6645 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.6645 	EXP 	window1: recordFrameIntervals = False
+11.9261 	EXP 	window1: recordFrameIntervals = True
+12.0261 	DATA 	Mouse: Left button down, pos=(455,608)
+12.1930 	EXP 	Screen (0) actual frame rate measured at 61.16Hz
+12.1930 	EXP 	window1: recordFrameIntervals = False
+15.7166 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7167 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7167 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7168 	EXP 	state_naming_task: status = STARTED
+15.8338 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.9117 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0025 	DATA 	Mouse:  Left button up, pos=(135,195)
+0.0390 	DATA 	Mouse: Left button down, pos=(379,54)
+0.0395 	DATA 	Mouse:  Left button up, pos=(221,420)
+0.0403 	DATA 	Mouse: Left button down, pos=(476,111)
+0.0407 	DATA 	Mouse:  Left button up, pos=(476,111)
+0.0412 	DATA 	Mouse: Left button down, pos=(702,460)
+0.0414 	DATA 	Mouse:  Left button up, pos=(702,460)
+0.0419 	DATA 	Mouse: Left button down, pos=(1440,290)
+0.0424 	DATA 	Mouse:  Left button up, pos=(1491,326)
+0.0430 	DATA 	Mouse: Left button down, pos=(1695,986)
+0.0436 	DATA 	Mouse:  Left button up, pos=(1695,986)
+0.0511 	EXP 	textbox: autoLog = True
+0.0572 	INFO 	Keyboard events cleared
+0.0567 	EXP 	task_instructions: autoDraw = True
+1.8043 	DATA 	Keypress: space
+1.8214 	EXP 	task_instructions: autoDraw = False
+2.3331 	INFO 	Keyboard events cleared
+2.3326 	EXP 	image: autoDraw = True
+2.3326 	EXP 	textbox: autoDraw = True
+2.5817 	DATA 	Mouse: Left button down, pos=(425,467)
+2.7486 	DATA 	Mouse:  Left button up, pos=(0,458)
+8.7483 	DATA 	Keypress: escape
+8.9375 	EXP 	state_naming_task: status = STOPPED
+8.9597 	EXP 	image: autoDraw = False
+8.9597 	EXP 	textbox: autoDraw = False
+8.9598 	EXP 	state_naming_task: status = STOPPED
+8.9843 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/736735_state_naming_task_2025-04-11_10h34.29.136.csv'
+8.9853 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/736735_state_naming_task_2025-04-11_10h34.29.136.psydat

@@ -1,0 +1,47 @@
+6.1754 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+6.1849 	WARNING 	User requested fullscreen with size [1536  960], but screen is actually [1920, 1200]. Using actual size
+6.6145 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000256A74AD6C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002569A7CF1C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000256A75928C0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.6146 	EXP 	window1: backgroundImage = ''
+6.6146 	EXP 	window1: backgroundFit = 'none'
+6.6891 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.6892 	EXP 	window1: recordFrameIntervals = False
+6.9233 	EXP 	window1: recordFrameIntervals = True
+7.1088 	EXP 	Screen (0) actual frame rate measured at 59.30Hz
+7.1089 	EXP 	window1: recordFrameIntervals = False
+10.4302 	INFO 	keyboard.Keyboard is using iohub backend.
+10.4303 	INFO 	keyboard.Keyboard is using iohub backend.
+10.4303 	EXP 	state_naming_task: status = STARTED
+10.5216 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5840 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.5933 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+0.0177 	EXP 	textbox: autoLog = True
+0.0321 	INFO 	Keyboard events cleared
+0.0317 	EXP 	task_instructions: autoDraw = True
+0.9541 	DATA 	Keypress: space
+0.9657 	EXP 	task_instructions: autoDraw = False
+1.4660 	EXP 	image: autoDraw = True
+1.4660 	EXP 	stimuli_prompt: autoDraw = True
+1.4660 	EXP 	textbox: autoDraw = True
+4.1865 	DATA 	Keypress: lshift
+4.3534 	DATA 	Keypress: a
+4.6193 	DATA 	Keypress: a
+4.7703 	DATA 	Keypress: b
+5.2536 	DATA 	Keypress: backspace
+5.3866 	DATA 	Keypress: backspace
+5.7023 	DATA 	Keypress: l
+5.8527 	DATA 	Keypress: a
+6.1361 	DATA 	Keypress: b
+6.2698 	DATA 	Keypress: a
+6.4037 	DATA 	Keypress: m
+6.5363 	DATA 	Keypress: a
+8.1739 	DATA 	Keypress: return
+8.9385 	DATA 	Keypress: backspace
+8.9681 	EXP 	image: autoDraw = False
+8.9681 	EXP 	stimuli_prompt: autoDraw = False
+8.9681 	EXP 	textbox: autoDraw = False
+8.9681 	EXP 	image: autoDraw = False
+8.9681 	EXP 	stimuli_prompt: autoDraw = False
+8.9681 	EXP 	textbox: autoDraw = False
+8.9683 	EXP 	state_naming_task: status = STOPPED
+8.9949 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/329720_state_naming_task_2025-04-11_11h56.37.563.csv'
+8.9958 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/329720_state_naming_task_2025-04-11_11h56.37.563.psydat

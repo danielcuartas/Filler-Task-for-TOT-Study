@@ -1,0 +1,42 @@
+51.8363 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+53.6341 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000128A30520E0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000128A3052080>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000128AFE92140>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+53.6341 	EXP 	window1: backgroundImage = ''
+53.6341 	EXP 	window1: backgroundFit = 'none'
+53.6983 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+53.6984 	EXP 	window1: recordFrameIntervals = False
+53.9483 	EXP 	window1: recordFrameIntervals = True
+54.1321 	EXP 	Screen (0) actual frame rate measured at 59.90Hz
+54.1322 	EXP 	window1: recordFrameIntervals = False
+58.2003 	INFO 	keyboard.Keyboard is using iohub backend.
+58.2003 	INFO 	keyboard.Keyboard is using iohub backend.
+58.2004 	INFO 	keyboard.Keyboard is using iohub backend.
+58.2004 	EXP 	state_naming_task: status = STARTED
+58.6146 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+58.6862 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0086 	EXP 	textbox: autoLog = True
+0.0141 	INFO 	Keyboard events cleared
+0.0137 	EXP 	task_instructions: autoDraw = True
+13.7989 	DATA 	Keypress: space
+13.8077 	EXP 	task_instructions: autoDraw = False
+14.3093 	INFO 	Keyboard events cleared
+14.3089 	EXP 	image: autoDraw = True
+14.3089 	EXP 	textbox: autoDraw = True
+18.3985 	DATA 	Keypress: return
+20.1843 	DATA 	Keypress: return
+20.3192 	DATA 	Keypress: return
+20.4513 	DATA 	Keypress: return
+20.5675 	DATA 	Keypress: return
+20.7020 	DATA 	Keypress: return
+20.8023 	DATA 	Keypress: return
+21.4687 	DATA 	Keypress: return
+21.8854 	DATA 	Keypress: return
+22.4878 	DATA 	Keypress: return
+22.7030 	DATA 	Keypress: return
+22.8540 	DATA 	Keypress: return
+23.2880 	DATA 	Keypress: escape
+23.4021 	EXP 	state_naming_task: status = STOPPED
+23.4176 	EXP 	image: autoDraw = False
+23.4176 	EXP 	textbox: autoDraw = False
+23.4177 	EXP 	state_naming_task: status = STOPPED
+23.4197 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/766825_state_naming_task_2025-04-11_10h27.56.146.csv'
+23.4204 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/766825_state_naming_task_2025-04-11_10h27.56.146.psydat

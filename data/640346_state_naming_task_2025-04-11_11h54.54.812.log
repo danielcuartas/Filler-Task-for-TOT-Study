@@ -1,0 +1,32 @@
+7.8210 	INFO 	Loaded monitor calibration from ['2025_04_09 10:33']
+7.8328 	WARNING 	User requested fullscreen with size [1536  960], but screen is actually [1920, 1200]. Using actual size
+8.2583 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002335DB0D6C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023350E2F1C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002335DBF28C0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.2584 	EXP 	window1: backgroundImage = ''
+8.2584 	EXP 	window1: backgroundFit = 'none'
+8.3325 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.3326 	EXP 	window1: recordFrameIntervals = False
+8.5668 	EXP 	window1: recordFrameIntervals = True
+8.7516 	EXP 	Screen (0) actual frame rate measured at 59.59Hz
+8.7516 	EXP 	window1: recordFrameIntervals = False
+12.0745 	INFO 	keyboard.Keyboard is using iohub backend.
+12.0745 	INFO 	keyboard.Keyboard is using iohub backend.
+12.0746 	EXP 	state_naming_task: status = STARTED
+12.1707 	EXP 	Created task_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.2324 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+12.2429 	EXP 	Created stimuli_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli_prompt', opacity=1, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text='What is the name of this U.S. State?', units='height', win=Window(...), wrapWidth=1)
+0.0198 	EXP 	textbox: autoLog = True
+0.0292 	INFO 	Keyboard events cleared
+0.0288 	EXP 	task_instructions: autoDraw = True
+1.7847 	DATA 	Keypress: space
+1.7955 	EXP 	task_instructions: autoDraw = False
+2.2965 	EXP 	image: autoDraw = True
+2.2965 	EXP 	stimuli_prompt: autoDraw = True
+2.2965 	EXP 	textbox: autoDraw = True
+3.5669 	DATA 	Keypress: escape
+3.7149 	EXP 	state_naming_task: status = STOPPED
+3.7300 	EXP 	image: autoDraw = False
+3.7300 	EXP 	stimuli_prompt: autoDraw = False
+3.7300 	EXP 	textbox: autoDraw = False
+3.7301 	EXP 	state_naming_task: status = STOPPED
+3.7551 	INFO 	saved data to 'C:\\Users\\josef\\OneDrive\\Desktop\\Filler Task for TOT Study\\data/640346_state_naming_task_2025-04-11_11h54.54.812.csv'
+3.7558 	INFO 	saved data to C:\Users\josef\OneDrive\Desktop\Filler Task for TOT Study\data/640346_state_naming_task_2025-04-11_11h54.54.812.psydat
